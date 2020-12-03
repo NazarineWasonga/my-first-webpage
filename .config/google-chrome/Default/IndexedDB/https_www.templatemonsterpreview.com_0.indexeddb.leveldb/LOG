@@ -1,0 +1,8 @@
+2020/12/02-12:55:34.994 3dca Reusing MANIFEST /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_www.templatemonsterpreview.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/02-12:55:34.995 3dca Recovering log #4
+2020/12/02-12:55:34.995 3dca Reusing old log /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_www.templatemonsterpreview.com_0.indexeddb.leveldb/000004.log 
+2020/12/02-13:01:34.665 3f89 Level-0 table #8: started
+2020/12/02-13:01:34.666 3f89 Level-0 table #8: 0 bytes OK
+2020/12/02-13:01:34.675 3f89 Delete type=0 #4
+2020/12/02-13:01:34.675 3f89 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/02-13:01:34.675 3f89 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

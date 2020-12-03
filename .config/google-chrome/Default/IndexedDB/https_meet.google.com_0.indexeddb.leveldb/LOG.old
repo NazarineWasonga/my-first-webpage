@@ -1,0 +1,8 @@
+2020/12/02-17:00:02.354 6bd6 Reusing MANIFEST /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/02-17:00:02.355 6bd6 Recovering log #58
+2020/12/02-17:00:02.355 6bd6 Reusing old log /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/000058.log 
+2020/12/02-17:20:37.630 6d2d Level-0 table #62: started
+2020/12/02-17:20:37.631 6d2d Level-0 table #62: 0 bytes OK
+2020/12/02-17:20:37.636 6d2d Delete type=0 #58
+2020/12/02-17:20:37.636 6d2d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/02-17:20:37.637 6d2d Manual compaction at level-1 from (begin) .. (end); will stop at (end)

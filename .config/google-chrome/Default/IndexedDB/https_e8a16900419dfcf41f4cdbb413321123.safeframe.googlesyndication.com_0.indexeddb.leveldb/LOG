@@ -1,0 +1,8 @@
+2020/11/19-19:08:30.158 7d2d Reusing MANIFEST /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_e8a16900419dfcf41f4cdbb413321123.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/19-19:08:30.159 7d2d Recovering log #4
+2020/11/19-19:08:30.159 7d2d Reusing old log /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_e8a16900419dfcf41f4cdbb413321123.safeframe.googlesyndication.com_0.indexeddb.leveldb/000004.log 
+2020/11/19-19:10:44.579 7dc6 Level-0 table #8: started
+2020/11/19-19:10:44.579 7dc6 Level-0 table #8: 0 bytes OK
+2020/11/19-19:10:44.586 7dc6 Delete type=0 #4
+2020/11/19-19:10:44.586 7dc6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/19-19:10:44.587 7dc6 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

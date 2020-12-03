@@ -1,0 +1,15 @@
+2020/12/03-08:49:57.596 95b Reusing MANIFEST /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/03-08:49:57.596 95b Recovering log #131
+2020/12/03-08:49:57.628 95b Reusing old log /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000131.log 
+2020/12/03-10:32:14.035 1ab9 Level-0 table #137: started
+2020/12/03-10:32:14.064 1ab9 Level-0 table #137: 1229151 bytes OK
+2020/12/03-10:32:14.070 1ab9 Delete type=0 #131
+2020/12/03-10:56:14.031 1e45 Compacting 1@1 + 2@2 files
+2020/12/03-10:56:14.098 1e45 Generated table #138@1: 54859 keys, 2207435 bytes
+2020/12/03-10:56:14.161 1e45 Generated table #139@1: 45483 keys, 2288858 bytes
+2020/12/03-10:56:14.175 1e45 Generated table #140@1: 762 keys, 382371 bytes
+2020/12/03-10:56:14.175 1e45 Compacted 1@1 + 2@2 files => 4878664 bytes
+2020/12/03-10:56:14.181 1e45 compacted to: files[ 0 0 3 0 0 0 0 ]
+2020/12/03-10:56:14.181 1e45 Delete type=2 #134
+2020/12/03-10:56:14.181 1e45 Delete type=2 #133
+2020/12/03-10:56:14.181 1e45 Delete type=2 #137

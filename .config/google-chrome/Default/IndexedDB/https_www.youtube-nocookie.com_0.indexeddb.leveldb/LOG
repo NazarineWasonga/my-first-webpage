@@ -1,0 +1,5 @@
+2020/11/30-16:14:57.714 1cae Reusing MANIFEST /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/30-16:14:59.734 1c77 Level-0 table #5: started
+2020/11/30-16:14:59.738 1c77 Level-0 table #5: 421 bytes OK
+2020/11/30-16:14:59.744 1c77 Delete type=0 #3
+2020/11/30-16:14:59.744 1c77 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

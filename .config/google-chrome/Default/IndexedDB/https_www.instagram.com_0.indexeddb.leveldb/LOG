@@ -1,0 +1,5 @@
+2020/11/26-14:55:20.067 4809 Reusing MANIFEST /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/26-14:55:45.291 4864 Level-0 table #5: started
+2020/11/26-14:55:45.296 4864 Level-0 table #5: 797 bytes OK
+2020/11/26-14:55:45.302 4864 Delete type=0 #3
+2020/11/26-14:55:45.303 4864 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

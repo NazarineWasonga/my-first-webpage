@@ -1,0 +1,5 @@
+2020/12/01-18:37:31.227 5a10 Reusing MANIFEST /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/01-18:38:45.849 59a7 Level-0 table #5: started
+2020/12/01-18:38:45.854 59a7 Level-0 table #5: 1262 bytes OK
+2020/12/01-18:38:45.859 59a7 Delete type=0 #3
+2020/12/01-18:38:45.859 59a7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

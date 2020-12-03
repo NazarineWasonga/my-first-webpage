@@ -1,0 +1,17 @@
+// <!-- <mdb:mork:z v="1.4"/> -->
+< <(a=c)> // (f=iso-8859-1)
+  (8A=charset)(8B=boxFlags)(8C=hierDelim)(8D=onlineName)(8E=aclFlags)
+  (8F=serverTotal)(90=serverUnseen)(91=serverRecent)(92=indexingPriority)
+  (93=nextUID)(94=lastSyncTimeInSec)(95=LastPurgeTime)
+  (96=useServerRetention)(80=ns:msg:db:row:scope:folders:all)
+  (81=ns:msg:db:table:kind:folders)(82=key)(83=flags)(84=totalMsgs)
+  (85=totalUnreadMsgs)(86=pendingUnreadMsgs)(87=pendingMsgs)
+  (88=expungedBytes)(89=folderSize)>
+
+<(80
+    =/home/moringaaccess/.thunderbird/qr11fiv4.default-release/ImapMail/imap.g\
+mail.com/INBOX.msf)(87=8003014)(82=0)(83=ffffffffffffffff)(84=ISO-8859-1)
+  (85=5e)(86=INBOX)(88=1)>
+{1:^80 {(k^81:c)(s=9)} 
+  [1(^82^80)(^83^87)(^84=0)(^85=0)(^86=0)(^87=0)(^88=0)(^89^83)(^8A^84)
+    (^8B=0)(^8C=5e)(^8D^86)(^8E=0)(^8F=0)(^90=0)(^91=0)(^94=0)(^96=1)]}

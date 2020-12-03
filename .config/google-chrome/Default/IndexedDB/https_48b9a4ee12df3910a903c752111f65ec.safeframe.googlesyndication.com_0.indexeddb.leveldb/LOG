@@ -1,0 +1,5 @@
+2020/11/19-21:52:02.498 f19 Reusing MANIFEST /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_48b9a4ee12df3910a903c752111f65ec.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/19-21:52:07.090 fad Level-0 table #5: started
+2020/11/19-21:52:07.096 fad Level-0 table #5: 439 bytes OK
+2020/11/19-21:52:07.103 fad Delete type=0 #3
+2020/11/19-21:52:07.103 fad Manual compaction at level-0 from (begin) .. (end); will stop at (end)

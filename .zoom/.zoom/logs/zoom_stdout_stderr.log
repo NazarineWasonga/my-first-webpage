@@ -1,0 +1,165 @@
+ZoomLauncher started.
+Zoom path is: /opt/zoom
+cmd line: zoommtg://google.zoom.us/google?token=tcQ%2BeQACHl1TZXI%2BAqUdETmHHv40FtPxs1NjgM4odqPeU3chwJKB%2F3kSOFkBIAURAYSiE6yEN7wFf%2BNeMrmPfpeXO2sbq5vDM3CF1XrBTe%2FuvffcPo%2BRZp8o1eXNzxvudkhplq605WX2tFx1vmh7ZxBt%2BjsJO89jk1qYSxNiERcSOmNEx%2F8AExdr5RuP9lgQkyco35Eo7WiiQ%2FfqD5ilQZEEerZDwlpxdmS2yxky5rdaso2swd%2FOa5VQELBr%2BtnGDM8S4hyVtL4ORJKRuy9O934o37q%2B%2BpTzjK7f%2FvhDzxZcXmr7aGnsjXlNeLevqyi160cdTB2Pj02wLFlsn%2BGBzkMfR1yOWrcD%2FhRhP5woBye6AJH8BTfhhezS2UY%2BbQNc&errorno=0&errormsg=
+CreateReportChannel bp_server_fd=4
+$HOME = /home/moringaaccess/.zoom 
+Can't load/home/moringaaccess/.zoom/.config/zoomus.conf
+export SSB_HOME=/home/moringaaccess/.zoom/.zoom; export QSG_INFO=1; export QT_AUTO_SCREEN_SCALE_FACTOR=1; export LD_LIBRARY_PATH=/opt/zoom; export BREAKPAD_CLIENT_FD=3; /opt/zoom/zoom "zoommtg://google.zoom.us/google?token=tcQ%2BeQACHl1TZXI%2BAqUdETmHHv40FtPxs1NjgM4odqPeU3chwJKB%2F3kSOFkBIAURAYSiE6yEN7wFf%2BNeMrmPfpeXO2sbq5vDM3CF1XrBTe%2FuvffcPo%2BRZp8o1eXNzxvudkhplq605WX2tFx1vmh7ZxBt%2BjsJO89jk1qYSxNiERcSOmNEx%2F8AExdr5RuP9lgQkyco35Eo7WiiQ%2FfqD5ilQZEEerZDwlpxdmS2yxky5rdaso2swd%2FOa5VQELBr%2BtnGDM8S4hyVtL4ORJKRuy9O934o37q%2B%2BpTzjK7f%2FvhDzxZcXmr7aGnsjXlNeLevqyi160cdTB2Pj02wLFlsn%2BGBzkMfR1yOWrcD%2FhRhP5woBye6AJH8BTfhhezS2UY%2BbQNc&errorno=0&errormsg=" 
+zoom started.
+Zoom is running, send message to it: zoommtg://google.zoom.us/google?token=tcQ%2BeQACHl1TZXI%2BAqUdETmHHv40FtPxs1NjgM4odqPeU3chwJKB%2F3kSOFkBIAURAYSiE6yEN7wFf%2BNeMrmPfpeXO2sbq5vDM3CF1XrBTe%2FuvffcPo%2BRZp8o1eXNzxvudkhplq605WX2tFx1vmh7ZxBt%2BjsJO89jk1qYSxNiERcSOmNEx%2F8AExdr5RuP9lgQkyco35Eo7WiiQ%2FfqD5ilQZEEerZDwlpxdmS2yxky5rdaso2swd%2FOa5VQELBr%2BtnGDM8S4hyVtL4ORJKRuy9O934o37q%2B%2BpTzjK7f%2FvhDzxZcXmr7aGnsjXlNeLevqyi160cdTB2Pj02wLFlsn%2BGBzkMfR1yOWrcD%2FhRhP5woBye6AJH8BTfhhezS2UY%2BbQNc&errorno=0&errormsg=
+Exit zoom as another zoom instance is running!
+Client: Breakpad is using Client-Server Mode! client fd = 3
+success to create child process,status is 0.
+zoom exited normally.
+run zoom successfully,exit code is 0.
+ZoomLauncher exit.
+ZoomLauncher started.
+Zoom path is: /opt/zoom
+cmd line: zoommtg://zoom.us/join?action=join&confno=7909457167&zc=64&mcv=0.92.11227.0929&confid=dXNzPXM0MklCdHNHdFVfZ2I3dGZvWXZGXzYzYW40d25Jek16LWt1Z3lRWUptcFI2QUNkXzhiTVJ0U1dvTExsUUo5V2xnbDVLSzBLVTQxN1d5VEUuQlJ5bno1enJGWFFUTHZIYyZ0aWQ9ZjFmNTk0ZmM5MWNmNGE0ODgyNjhkODRmYzcyOGU5N2M%3D&browser=chrome&t=1604316994223
+CreateReportChannel bp_server_fd=4
+$HOME = /home/moringaaccess/.zoom 
+Can't load/home/moringaaccess/.zoom/.config/zoomus.conf
+export SSB_HOME=/home/moringaaccess/.zoom/.zoom; export QSG_INFO=1; export QT_AUTO_SCREEN_SCALE_FACTOR=1; export LD_LIBRARY_PATH=/opt/zoom; export BREAKPAD_CLIENT_FD=3; /opt/zoom/zoom "zoommtg://zoom.us/join?action=join&confno=7909457167&zc=64&mcv=0.92.11227.0929&confid=dXNzPXM0MklCdHNHdFVfZ2I3dGZvWXZGXzYzYW40d25Jek16LWt1Z3lRWUptcFI2QUNkXzhiTVJ0U1dvTExsUUo5V2xnbDVLSzBLVTQxN1d5VEUuQlJ5bno1enJGWFFUTHZIYyZ0aWQ9ZjFmNTk0ZmM5MWNmNGE0ODgyNjhkODRmYzcyOGU5N2M%3D&browser=chrome&t=1604316994223" 
+zoom started.
+Zoom is running, send message to it: zoommtg://zoom.us/join?action=join&confno=7909457167&zc=64&mcv=0.92.11227.0929&confid=dXNzPXM0MklCdHNHdFVfZ2I3dGZvWXZGXzYzYW40d25Jek16LWt1Z3lRWUptcFI2QUNkXzhiTVJ0U1dvTExsUUo5V2xnbDVLSzBLVTQxN1d5VEUuQlJ5bno1enJGWFFUTHZIYyZ0aWQ9ZjFmNTk0ZmM5MWNmNGE0ODgyNjhkODRmYzcyOGU5N2M%3D&browser=chrome&t=1604316994223
+Exit zoom as another zoom instance is running!
+Client: Breakpad is using Client-Server Mode! client fd = 3
+success to create child process,status is 0.
+zoom exited normally.
+run zoom successfully,exit code is 0.
+ZoomLauncher exit.
+ZoomLauncher started.
+Zoom path is: /opt/zoom
+cmd line: zoommtg://zoom.us/join?action=join&confno=7909457167&zc=64&mcv=0.92.11227.0929&confid=dXNzPXM0MklCdHNHdFVfZ2I3dGZvWXZGXzYzYW40d25Jek16LWt1Z3lRWUptcFI2QUNkXzhiTVJ0U1dvTExsUUo5V2xnbDVLSzBLVTQxN1d5VEUuQlJ5bno1enJGWFFUTHZIYyZ0aWQ9ZjFmNTk0ZmM5MWNmNGE0ODgyNjhkODRmYzcyOGU5N2M%3D&browser=chrome&t=1604316994223
+CreateReportChannel bp_server_fd=4
+$HOME = /home/moringaaccess/.zoom 
+Can't load/home/moringaaccess/.zoom/.config/zoomus.conf
+export SSB_HOME=/home/moringaaccess/.zoom/.zoom; export QSG_INFO=1; export QT_AUTO_SCREEN_SCALE_FACTOR=1; export LD_LIBRARY_PATH=/opt/zoom; export BREAKPAD_CLIENT_FD=3; /opt/zoom/zoom "zoommtg://zoom.us/join?action=join&confno=7909457167&zc=64&mcv=0.92.11227.0929&confid=dXNzPXM0MklCdHNHdFVfZ2I3dGZvWXZGXzYzYW40d25Jek16LWt1Z3lRWUptcFI2QUNkXzhiTVJ0U1dvTExsUUo5V2xnbDVLSzBLVTQxN1d5VEUuQlJ5bno1enJGWFFUTHZIYyZ0aWQ9ZjFmNTk0ZmM5MWNmNGE0ODgyNjhkODRmYzcyOGU5N2M%3D&browser=chrome&t=1604316994223" 
+zoom started.
+Zoom is running, send message to it: zoommtg://zoom.us/join?action=join&confno=7909457167&zc=64&mcv=0.92.11227.0929&confid=dXNzPXM0MklCdHNHdFVfZ2I3dGZvWXZGXzYzYW40d25Jek16LWt1Z3lRWUptcFI2QUNkXzhiTVJ0U1dvTExsUUo5V2xnbDVLSzBLVTQxN1d5VEUuQlJ5bno1enJGWFFUTHZIYyZ0aWQ9ZjFmNTk0ZmM5MWNmNGE0ODgyNjhkODRmYzcyOGU5N2M%3D&browser=chrome&t=1604316994223
+Exit zoom as another zoom instance is running!
+Client: Breakpad is using Client-Server Mode! client fd = 3
+success to create child process,status is 0.
+zoom exited normally.
+run zoom successfully,exit code is 0.
+ZoomLauncher exit.
+ZoomLauncher started.
+Zoom path is: /opt/zoom
+cmd line: zoommtg://zoom.us/join?action=join&confno=7909457167&zc=64&mcv=0.92.11227.0929&confid=dXNzPXM0MklCdHNHdFVfZ2I3dGZvWXZGXzYzYW40d25Jek16LWt1Z3lRWUptcFI2QUNkXzhiTVJ0U1dvTExsUUo5V2xnbDVLSzBLVTQxN1d5VEUuQlJ5bno1enJGWFFUTHZIYyZ0aWQ9ZjFmNTk0ZmM5MWNmNGE0ODgyNjhkODRmYzcyOGU5N2M%3D&browser=chrome&t=1604316994223
+CreateReportChannel bp_server_fd=4
+$HOME = /home/moringaaccess/.zoom 
+Can't load/home/moringaaccess/.zoom/.config/zoomus.conf
+export SSB_HOME=/home/moringaaccess/.zoom/.zoom; export QSG_INFO=1; export QT_AUTO_SCREEN_SCALE_FACTOR=1; export LD_LIBRARY_PATH=/opt/zoom; export BREAKPAD_CLIENT_FD=3; /opt/zoom/zoom "zoommtg://zoom.us/join?action=join&confno=7909457167&zc=64&mcv=0.92.11227.0929&confid=dXNzPXM0MklCdHNHdFVfZ2I3dGZvWXZGXzYzYW40d25Jek16LWt1Z3lRWUptcFI2QUNkXzhiTVJ0U1dvTExsUUo5V2xnbDVLSzBLVTQxN1d5VEUuQlJ5bno1enJGWFFUTHZIYyZ0aWQ9ZjFmNTk0ZmM5MWNmNGE0ODgyNjhkODRmYzcyOGU5N2M%3D&browser=chrome&t=1604316994223" 
+zoom started.
+Zoom is running, send message to it: zoommtg://zoom.us/join?action=join&confno=7909457167&zc=64&mcv=0.92.11227.0929&confid=dXNzPXM0MklCdHNHdFVfZ2I3dGZvWXZGXzYzYW40d25Jek16LWt1Z3lRWUptcFI2QUNkXzhiTVJ0U1dvTExsUUo5V2xnbDVLSzBLVTQxN1d5VEUuQlJ5bno1enJGWFFUTHZIYyZ0aWQ9ZjFmNTk0ZmM5MWNmNGE0ODgyNjhkODRmYzcyOGU5N2M%3D&browser=chrome&t=1604316994223
+Exit zoom as another zoom instance is running!
+Client: Breakpad is using Client-Server Mode! client fd = 3
+success to create child process,status is 0.
+zoom exited normally.
+run zoom successfully,exit code is 0.
+ZoomLauncher exit.
+ZoomLauncher started.
+Zoom path is: /opt/zoom
+cmd line: zoommtg://zoom.us/join?action=join&confno=7909457167&zc=64&mcv=0.92.11227.0929&confid=dXNzPVBfVHEzUFk3dkVaMHFSTGMxVkRRWVJWU0E2VTItQWc3eF9xeFc1TTB6RXpMU0ZvQk80TF81V0ZFbTh6LVVhcEZlay1tWlVWc0x2MGdNaTAuWUVBbk5uZUx2aDFhcDlsWSZ0aWQ9ZjFmNTk0ZmM5MWNmNGE0ODgyNjhkODRmYzcyOGU5N2M%3D&browser=chrome&t=1604317217436
+CreateReportChannel bp_server_fd=4
+$HOME = /home/moringaaccess/.zoom 
+Can't load/home/moringaaccess/.zoom/.config/zoomus.conf
+export SSB_HOME=/home/moringaaccess/.zoom/.zoom; export QSG_INFO=1; export QT_AUTO_SCREEN_SCALE_FACTOR=1; export LD_LIBRARY_PATH=/opt/zoom; export BREAKPAD_CLIENT_FD=3; /opt/zoom/zoom "zoommtg://zoom.us/join?action=join&confno=7909457167&zc=64&mcv=0.92.11227.0929&confid=dXNzPVBfVHEzUFk3dkVaMHFSTGMxVkRRWVJWU0E2VTItQWc3eF9xeFc1TTB6RXpMU0ZvQk80TF81V0ZFbTh6LVVhcEZlay1tWlVWc0x2MGdNaTAuWUVBbk5uZUx2aDFhcDlsWSZ0aWQ9ZjFmNTk0ZmM5MWNmNGE0ODgyNjhkODRmYzcyOGU5N2M%3D&browser=chrome&t=1604317217436" 
+zoom started.
+Zoom is running, send message to it: zoommtg://zoom.us/join?action=join&confno=7909457167&zc=64&mcv=0.92.11227.0929&confid=dXNzPVBfVHEzUFk3dkVaMHFSTGMxVkRRWVJWU0E2VTItQWc3eF9xeFc1TTB6RXpMU0ZvQk80TF81V0ZFbTh6LVVhcEZlay1tWlVWc0x2MGdNaTAuWUVBbk5uZUx2aDFhcDlsWSZ0aWQ9ZjFmNTk0ZmM5MWNmNGE0ODgyNjhkODRmYzcyOGU5N2M%3D&browser=chrome&t=1604317217436
+Exit zoom as another zoom instance is running!
+Client: Breakpad is using Client-Server Mode! client fd = 3
+success to create child process,status is 0.
+zoom exited normally.
+run zoom successfully,exit code is 0.
+ZoomLauncher exit.
+ZoomLauncher started.
+Zoom path is: /opt/zoom
+cmd line: zoommtg://zoom.us/join?action=join&confno=7909457167&zc=64&mcv=0.92.11227.0929&confid=dXNzPVBfVHEzUFk3dkVaMHFSTGMxVkRRWVJWU0E2VTItQWc3eF9xeFc1TTB6RXpMU0ZvQk80TF81V0ZFbTh6LVVhcEZlay1tWlVWc0x2MGdNaTAuWUVBbk5uZUx2aDFhcDlsWSZ0aWQ9ZjFmNTk0ZmM5MWNmNGE0ODgyNjhkODRmYzcyOGU5N2M%3D&browser=chrome&t=1604317217436
+CreateReportChannel bp_server_fd=4
+$HOME = /home/moringaaccess/.zoom 
+Can't load/home/moringaaccess/.zoom/.config/zoomus.conf
+export SSB_HOME=/home/moringaaccess/.zoom/.zoom; export QSG_INFO=1; export QT_AUTO_SCREEN_SCALE_FACTOR=1; export LD_LIBRARY_PATH=/opt/zoom; export BREAKPAD_CLIENT_FD=3; /opt/zoom/zoom "zoommtg://zoom.us/join?action=join&confno=7909457167&zc=64&mcv=0.92.11227.0929&confid=dXNzPVBfVHEzUFk3dkVaMHFSTGMxVkRRWVJWU0E2VTItQWc3eF9xeFc1TTB6RXpMU0ZvQk80TF81V0ZFbTh6LVVhcEZlay1tWlVWc0x2MGdNaTAuWUVBbk5uZUx2aDFhcDlsWSZ0aWQ9ZjFmNTk0ZmM5MWNmNGE0ODgyNjhkODRmYzcyOGU5N2M%3D&browser=chrome&t=1604317217436" 
+zoom started.
+Zoom is running, send message to it: zoommtg://zoom.us/join?action=join&confno=7909457167&zc=64&mcv=0.92.11227.0929&confid=dXNzPVBfVHEzUFk3dkVaMHFSTGMxVkRRWVJWU0E2VTItQWc3eF9xeFc1TTB6RXpMU0ZvQk80TF81V0ZFbTh6LVVhcEZlay1tWlVWc0x2MGdNaTAuWUVBbk5uZUx2aDFhcDlsWSZ0aWQ9ZjFmNTk0ZmM5MWNmNGE0ODgyNjhkODRmYzcyOGU5N2M%3D&browser=chrome&t=1604317217436
+Exit zoom as another zoom instance is running!
+Client: Breakpad is using Client-Server Mode! client fd = 3
+success to create child process,status is 0.
+zoom exited normally.
+run zoom successfully,exit code is 0.
+ZoomLauncher exit.
+ZoomLauncher started.
+Zoom path is: /opt/zoom
+cmd line: zoommtg://zoom.us/join?action=join&confno=7909457167&zc=64&mcv=0.92.11227.0929&confid=dXNzPVBGYUI3ZzRRZjFCSmk2QkZDNkQzSm9LS293bGZ0aWFnRVhzZDlQQ0UwLWdKSFhtVlVqdFB1bVpxQjE4TXBEYlVpZTF0YkN1eXAwc3BreXcuUDNxRXA1dkQ3Rzk1VzJsRiZ0aWQ9ZjFmNTk0ZmM5MWNmNGE0ODgyNjhkODRmYzcyOGU5N2M%3D&browser=chrome&t=1604319914192
+CreateReportChannel bp_server_fd=4
+$HOME = /home/moringaaccess/.zoom 
+Can't load/home/moringaaccess/.zoom/.config/zoomus.conf
+export SSB_HOME=/home/moringaaccess/.zoom/.zoom; export QSG_INFO=1; export QT_AUTO_SCREEN_SCALE_FACTOR=1; export LD_LIBRARY_PATH=/opt/zoom; export BREAKPAD_CLIENT_FD=3; /opt/zoom/zoom "zoommtg://zoom.us/join?action=join&confno=7909457167&zc=64&mcv=0.92.11227.0929&confid=dXNzPVBGYUI3ZzRRZjFCSmk2QkZDNkQzSm9LS293bGZ0aWFnRVhzZDlQQ0UwLWdKSFhtVlVqdFB1bVpxQjE4TXBEYlVpZTF0YkN1eXAwc3BreXcuUDNxRXA1dkQ3Rzk1VzJsRiZ0aWQ9ZjFmNTk0ZmM5MWNmNGE0ODgyNjhkODRmYzcyOGU5N2M%3D&browser=chrome&t=1604319914192" 
+zoom started.
+Zoom is running, send message to it: zoommtg://zoom.us/join?action=join&confno=7909457167&zc=64&mcv=0.92.11227.0929&confid=dXNzPVBGYUI3ZzRRZjFCSmk2QkZDNkQzSm9LS293bGZ0aWFnRVhzZDlQQ0UwLWdKSFhtVlVqdFB1bVpxQjE4TXBEYlVpZTF0YkN1eXAwc3BreXcuUDNxRXA1dkQ3Rzk1VzJsRiZ0aWQ9ZjFmNTk0ZmM5MWNmNGE0ODgyNjhkODRmYzcyOGU5N2M%3D&browser=chrome&t=1604319914192
+Exit zoom as another zoom instance is running!
+Client: Breakpad is using Client-Server Mode! client fd = 3
+success to create child process,status is 0.
+zoom exited normally.
+run zoom successfully,exit code is 0.
+ZoomLauncher exit.
+ZoomLauncher started.
+Zoom path is: /opt/zoom
+cmd line: zoommtg://zoom.us/join?action=join&confno=7909457167&zc=64&mcv=0.92.11227.0929&confid=dXNzPVBGYUI3ZzRRZjFCSmk2QkZDNkQzSm9LS293bGZ0aWFnRVhzZDlQQ0UwLWdKSFhtVlVqdFB1bVpxQjE4TXBEYlVpZTF0YkN1eXAwc3BreXcuUDNxRXA1dkQ3Rzk1VzJsRiZ0aWQ9ZjFmNTk0ZmM5MWNmNGE0ODgyNjhkODRmYzcyOGU5N2M%3D&browser=chrome&t=1604319914192
+CreateReportChannel bp_server_fd=4
+$HOME = /home/moringaaccess/.zoom 
+Can't load/home/moringaaccess/.zoom/.config/zoomus.conf
+export SSB_HOME=/home/moringaaccess/.zoom/.zoom; export QSG_INFO=1; export QT_AUTO_SCREEN_SCALE_FACTOR=1; export LD_LIBRARY_PATH=/opt/zoom; export BREAKPAD_CLIENT_FD=3; /opt/zoom/zoom "zoommtg://zoom.us/join?action=join&confno=7909457167&zc=64&mcv=0.92.11227.0929&confid=dXNzPVBGYUI3ZzRRZjFCSmk2QkZDNkQzSm9LS293bGZ0aWFnRVhzZDlQQ0UwLWdKSFhtVlVqdFB1bVpxQjE4TXBEYlVpZTF0YkN1eXAwc3BreXcuUDNxRXA1dkQ3Rzk1VzJsRiZ0aWQ9ZjFmNTk0ZmM5MWNmNGE0ODgyNjhkODRmYzcyOGU5N2M%3D&browser=chrome&t=1604319914192" 
+zoom started.
+Zoom is running, send message to it: zoommtg://zoom.us/join?action=join&confno=7909457167&zc=64&mcv=0.92.11227.0929&confid=dXNzPVBGYUI3ZzRRZjFCSmk2QkZDNkQzSm9LS293bGZ0aWFnRVhzZDlQQ0UwLWdKSFhtVlVqdFB1bVpxQjE4TXBEYlVpZTF0YkN1eXAwc3BreXcuUDNxRXA1dkQ3Rzk1VzJsRiZ0aWQ9ZjFmNTk0ZmM5MWNmNGE0ODgyNjhkODRmYzcyOGU5N2M%3D&browser=chrome&t=1604319914192
+Exit zoom as another zoom instance is running!
+Client: Breakpad is using Client-Server Mode! client fd = 3
+success to create child process,status is 0.
+zoom exited normally.
+run zoom successfully,exit code is 0.
+ZoomLauncher exit.
+ZoomLauncher started.
+Zoom path is: /opt/zoom
+cmd line: zoommtg://zoom.us/join?action=join&confno=7909457167&zc=64&mcv=0.92.11227.0929&confid=dXNzPVBGYUI3ZzRRZjFCSmk2QkZDNkQzSm9LS293bGZ0aWFnRVhzZDlQQ0UwLWdKSFhtVlVqdFB1bVpxQjE4TXBEYlVpZTF0YkN1eXAwc3BreXcuUDNxRXA1dkQ3Rzk1VzJsRiZ0aWQ9ZjFmNTk0ZmM5MWNmNGE0ODgyNjhkODRmYzcyOGU5N2M%3D&browser=chrome&t=1604319914192
+CreateReportChannel bp_server_fd=4
+$HOME = /home/moringaaccess/.zoom 
+Can't load/home/moringaaccess/.zoom/.config/zoomus.conf
+export SSB_HOME=/home/moringaaccess/.zoom/.zoom; export QSG_INFO=1; export QT_AUTO_SCREEN_SCALE_FACTOR=1; export LD_LIBRARY_PATH=/opt/zoom; export BREAKPAD_CLIENT_FD=3; /opt/zoom/zoom "zoommtg://zoom.us/join?action=join&confno=7909457167&zc=64&mcv=0.92.11227.0929&confid=dXNzPVBGYUI3ZzRRZjFCSmk2QkZDNkQzSm9LS293bGZ0aWFnRVhzZDlQQ0UwLWdKSFhtVlVqdFB1bVpxQjE4TXBEYlVpZTF0YkN1eXAwc3BreXcuUDNxRXA1dkQ3Rzk1VzJsRiZ0aWQ9ZjFmNTk0ZmM5MWNmNGE0ODgyNjhkODRmYzcyOGU5N2M%3D&browser=chrome&t=1604319914192" 
+zoom started.
+Zoom is running, send message to it: zoommtg://zoom.us/join?action=join&confno=7909457167&zc=64&mcv=0.92.11227.0929&confid=dXNzPVBGYUI3ZzRRZjFCSmk2QkZDNkQzSm9LS293bGZ0aWFnRVhzZDlQQ0UwLWdKSFhtVlVqdFB1bVpxQjE4TXBEYlVpZTF0YkN1eXAwc3BreXcuUDNxRXA1dkQ3Rzk1VzJsRiZ0aWQ9ZjFmNTk0ZmM5MWNmNGE0ODgyNjhkODRmYzcyOGU5N2M%3D&browser=chrome&t=1604319914192
+Exit zoom as another zoom instance is running!
+Client: Breakpad is using Client-Server Mode! client fd = 3
+success to create child process,status is 0.
+zoom exited normally.
+run zoom successfully,exit code is 0.
+ZoomLauncher exit.
+ZoomLauncher started.
+Zoom path is: /opt/zoom
+cmd line: zoommtg://zoom.us/join?action=join&confno=7909457167&zc=64&mcv=0.92.11227.0929&confid=dXNzPWppVk04b2FfVW00M0pJMElVNzNuQzhDVU42LW93U0pSeS01V19FekxJWl9ISkJwMjUtMmNLQy0tTzg4RFQwaDVOT05fa2hlNzlSRXVMQzAudlNNX3dKbnZOekxDc2dUVSZ0aWQ9ZjFmNTk0ZmM5MWNmNGE0ODgyNjhkODRmYzcyOGU5N2M%3D&browser=chrome&t=1604323397065
+CreateReportChannel bp_server_fd=4
+$HOME = /home/moringaaccess/.zoom 
+Can't load/home/moringaaccess/.zoom/.config/zoomus.conf
+export SSB_HOME=/home/moringaaccess/.zoom/.zoom; export QSG_INFO=1; export QT_AUTO_SCREEN_SCALE_FACTOR=1; export LD_LIBRARY_PATH=/opt/zoom; export BREAKPAD_CLIENT_FD=3; /opt/zoom/zoom "zoommtg://zoom.us/join?action=join&confno=7909457167&zc=64&mcv=0.92.11227.0929&confid=dXNzPWppVk04b2FfVW00M0pJMElVNzNuQzhDVU42LW93U0pSeS01V19FekxJWl9ISkJwMjUtMmNLQy0tTzg4RFQwaDVOT05fa2hlNzlSRXVMQzAudlNNX3dKbnZOekxDc2dUVSZ0aWQ9ZjFmNTk0ZmM5MWNmNGE0ODgyNjhkODRmYzcyOGU5N2M%3D&browser=chrome&t=1604323397065" 
+zoom started.
+Zoom is running, send message to it: zoommtg://zoom.us/join?action=join&confno=7909457167&zc=64&mcv=0.92.11227.0929&confid=dXNzPWppVk04b2FfVW00M0pJMElVNzNuQzhDVU42LW93U0pSeS01V19FekxJWl9ISkJwMjUtMmNLQy0tTzg4RFQwaDVOT05fa2hlNzlSRXVMQzAudlNNX3dKbnZOekxDc2dUVSZ0aWQ9ZjFmNTk0ZmM5MWNmNGE0ODgyNjhkODRmYzcyOGU5N2M%3D&browser=chrome&t=1604323397065
+Exit zoom as another zoom instance is running!
+Client: Breakpad is using Client-Server Mode! client fd = 3
+success to create child process,status is 0.
+zoom exited normally.
+run zoom successfully,exit code is 0.
+ZoomLauncher exit.
+ZoomLauncher started.
+Zoom path is: /opt/zoom
+cmd line: zoommtg://zoom.us/join?action=join&confno=98262528425&pwd=cDExWHhkQmt2aVp1VkpBbU5rQVpYZz09&zc=0&mcv=0.92.11227.0929&confid=dXNzPVR0dU9aNTlsMEpOb3gzTVkxdzJkNE00Z0hRa0s0YTB5aU1vUG8yb3NTUGtLeWMxNHZfemV4SFY2aDVSZFE2OW5vYVVPUXU4R0V6N2ZGaGp6ZVEuTVhlUGhFeEhlYktLV0JOYiZ0aWQ9ZjFmNTk0ZmM5MWNmNGE0ODgyNjhkODRmYzcyOGU5N2M%3D&browser=chrome&t=1605859098487
+CreateReportChannel bp_server_fd=4
+$HOME = /home/moringaaccess/.zoom 
+Can't load/home/moringaaccess/.zoom/.config/zoomus.conf
+export SSB_HOME=/home/moringaaccess/.zoom/.zoom; export QSG_INFO=1; export QT_AUTO_SCREEN_SCALE_FACTOR=1; export LD_LIBRARY_PATH=/opt/zoom; export BREAKPAD_CLIENT_FD=3; /opt/zoom/zoom "zoommtg://zoom.us/join?action=join&confno=98262528425&pwd=cDExWHhkQmt2aVp1VkpBbU5rQVpYZz09&zc=0&mcv=0.92.11227.0929&confid=dXNzPVR0dU9aNTlsMEpOb3gzTVkxdzJkNE00Z0hRa0s0YTB5aU1vUG8yb3NTUGtLeWMxNHZfemV4SFY2aDVSZFE2OW5vYVVPUXU4R0V6N2ZGaGp6ZVEuTVhlUGhFeEhlYktLV0JOYiZ0aWQ9ZjFmNTk0ZmM5MWNmNGE0ODgyNjhkODRmYzcyOGU5N2M%3D&browser=chrome&t=1605859098487" 
+zoom started.
+Zoom is running, send message to it: zoommtg://zoom.us/join?action=join&confno=98262528425&pwd=cDExWHhkQmt2aVp1VkpBbU5rQVpYZz09&zc=0&mcv=0.92.11227.0929&confid=dXNzPVR0dU9aNTlsMEpOb3gzTVkxdzJkNE00Z0hRa0s0YTB5aU1vUG8yb3NTUGtLeWMxNHZfemV4SFY2aDVSZFE2OW5vYVVPUXU4R0V6N2ZGaGp6ZVEuTVhlUGhFeEhlYktLV0JOYiZ0aWQ9ZjFmNTk0ZmM5MWNmNGE0ODgyNjhkODRmYzcyOGU5N2M%3D&browser=chrome&t=1605859098487
+Exit zoom as another zoom instance is running!
+Client: Breakpad is using Client-Server Mode! client fd = 3
+success to create child process,status is 0.
+zoom exited normally.
+run zoom successfully,exit code is 0.
+ZoomLauncher exit.

@@ -1,0 +1,320 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/moringaaccess/Desktop/my-first-website
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :css/style.css
+> git ls-files --stage -- /home/moringaaccess/Desktop/my-first-website/css/style.css
+> git cat-file -s 64e4aa0e1047dee45bad4c71f0a3c281460049cf
+> git check-ignore -v -z --stdin
+> git ls-files --stage -- /home/moringaaccess/Desktop/my-first-website/css/style.css
+> git cat-file -s 64e4aa0e1047dee45bad4c71f0a3c281460049cf
+> git show :css/style.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :css/style.css
+> git ls-files --stage -- /home/moringaaccess/Desktop/my-first-website/css/style.css
+> git cat-file -s 64e4aa0e1047dee45bad4c71f0a3c281460049cf
+> git check-ignore -v -z --stdin
+> git show :favorite-things.html/my-first-webpage.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/my-first-website/favorite-things.html/my-first-webpage.html
+> git show :css/vv
+> git ls-files --stage -- /home/moringaaccess/Desktop/my-first-website/css/vv
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :favorite-things.html/my-first-webpage.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/my-first-website/favorite-things.html/my-first-webpage.html
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/my-first-website/favorite-things.html/my-first-webpage.html
+> git show :favorite-things.html/my-first-webpage.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :favorite-things.html/.vscode/my favorite thing.css/my favorite thing.css/my-first-webpage.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/my-first-website/favorite-things.html/.vscode/my favorite thing.css/my favorite thing.css/my-first-webpage.html
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :favorite-things.html/my-first-webpage.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/my-first-website/favorite-things.html/my-first-webpage.html
+> git show :favorite-things.html/.vscode/my favorite thing.css/my favorite thing.css/my-first-webpage.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/my-first-website/favorite-things.html/.vscode/my favorite thing.css/my favorite thing.css/my-first-webpage.html
+> git show :favorite-things.html/my-first-webpage.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/my-first-website/favorite-things.html/my-first-webpage.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :css/vv
+> git ls-files --stage -- /home/moringaaccess/Desktop/my-first-website/css/vv
+> git show :Images/favorite-things.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/my-first-website/Images/favorite-things.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/my-first-website/Images/favorite-things.html
+> git show :Images/favorite-things.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/my-first-website/index.html
+> git cat-file -s 7a370c9b24e09e8e27dee345c0b1ffa15f006189
+> git show :Images/favorite-things.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/my-first-website/Images/favorite-things.html
+> git show :index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/my-first-website/index.html
+> git cat-file -s 7a370c9b24e09e8e27dee345c0b1ffa15f006189
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/my-first-website/index.html
+> git cat-file -s 7a370c9b24e09e8e27dee345c0b1ffa15f006189
+> git show :index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/my-first-website/index.html
+> git cat-file -s 7a370c9b24e09e8e27dee345c0b1ffa15f006189
+> git show :index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Images/favorite-things.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/my-first-website/Images/favorite-things.html
+> git show :index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/my-first-website/index.html
+> git cat-file -s 7a370c9b24e09e8e27dee345c0b1ffa15f006189
+> git show :Images/favorite-things.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/my-first-website/Images/favorite-things.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/my-first-website/Images/favorite-things.html
+> git cat-file -s d05999d03652712fd396f95b15bf6ffc007602c4
+> git show :Images/favorite-things.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/my-first-website/Images/favorite-things.html
+> git cat-file -s d05999d03652712fd396f95b15bf6ffc007602c4
+> git show :Images/favorite-things.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/my-first-website/Images/favorite-things.html
+> git cat-file -s d05999d03652712fd396f95b15bf6ffc007602c4
+> git show :Images/favorite-things.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/my-first-website/Images/favorite-things.html
+> git cat-file -s d05999d03652712fd396f95b15bf6ffc007602c4
+> git show :Images/favorite-things.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git init
+> git init
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/moringaaccess
+> git fetch
+> git status -z -u
+> git show :Desktop/my-first-website
+> git ls-files --stage -- /home/moringaaccess/Desktop/my-first-website
+> git check-ignore -v -z --stdin
+> git ls-files --stage -- /home/moringaaccess/Desktop/my-first-website
+> git show :Desktop/my-first-website
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+error: The last gc run reported the following. Please correct the root cause
+and remove .git/gc.log.
+Automatic cleanup will not be performed until the file is removed.
+
+warning: There are too many unreachable loose objects; run 'git prune' to remove them.
+> git ls-files --stage -- /home/moringaaccess/Desktop/my-first-website
+> git show :Desktop/my-first-website
+> git show :Desktop/my-first-website/Images/favorite-things.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/my-first-website/Images/favorite-things.html

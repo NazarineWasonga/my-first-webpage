@@ -1,0 +1,5 @@
+2020/11/26-22:25:56.614 2171 Reusing MANIFEST /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_blog.designcrowd.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/26-22:26:04.203 210b Level-0 table #5: started
+2020/11/26-22:26:04.208 210b Level-0 table #5: 2974 bytes OK
+2020/11/26-22:26:04.214 210b Delete type=0 #3
+2020/11/26-22:26:04.214 210b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

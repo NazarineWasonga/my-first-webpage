@@ -1,0 +1,5 @@
+2020/11/19-19:18:44.474 7e54 Reusing MANIFEST /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_www.templatemonster.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/19-19:19:30.370 7e8d Level-0 table #5: started
+2020/11/19-19:19:30.375 7e8d Level-0 table #5: 1797 bytes OK
+2020/11/19-19:19:30.383 7e8d Delete type=0 #3
+2020/11/19-19:19:30.384 7e8d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

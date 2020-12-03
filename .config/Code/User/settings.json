@@ -1,0 +1,10 @@
+{
+    "liveServer.settings.donotShowInfoMsg": true,
+    "git.autofetch": true,
+    "files.autoSave": "afterDelay",
+    "window.zoomLevel": 0,
+    "editor.wordWrap": "on",
+    "editor.accessibilitySupport": "off",
+    "editor.autoClosingOvertype": "always",
+    "liveServer.settings.donotVerifyTags": true
+}

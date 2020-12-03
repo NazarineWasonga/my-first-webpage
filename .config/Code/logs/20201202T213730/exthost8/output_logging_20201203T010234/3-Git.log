@@ -1,0 +1,27 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/moringaaccess
+> git fetch
+> git status -z -u
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+error: The last gc run reported the following. Please correct the root cause
+and remove .git/gc.log.
+Automatic cleanup will not be performed until the file is removed.
+
+warning: There are too many unreachable loose objects; run 'git prune' to remove them.
+> git show :Desktop/index.html/index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/index.html/index.html
+> git check-ignore -v -z --stdin
+> git show :Desktop/index.html/css/styles.css
+> git ls-files --stage -- /home/moringaaccess/Desktop/index.html/css/styles.css
+> git check-ignore -v -z --stdin
+> git show :Desktop/index.html/index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/index.html/index.html
+> git check-ignore -v -z --stdin
+> git show :Desktop/index.html/css/styles.css
+> git ls-files --stage -- /home/moringaaccess/Desktop/index.html/css/styles.css
+> git show :Desktop/index.html/index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/index.html/index.html

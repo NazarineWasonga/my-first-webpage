@@ -1,0 +1,69 @@
+{
+   "checksum": "2a16f0f17f5a3ea51b9bae62c332dc1e",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13248454680885668",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13248454680885674",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13158064450399555",
+            "guid": "da97ddc0-5988-4bc6-a876-688be6591e55",
+            "id": "5",
+            "name": "Nazarine Wasonga.",
+            "type": "url",
+            "url": "http://www.safaricom.co.ke/swiftsquad"
+         }, {
+            "date_added": "13156916913223077",
+            "guid": "3c34a752-b2bb-44d6-9c5d-ae74f84603e9",
+            "id": "6",
+            "name": "Nazarine",
+            "type": "url",
+            "url": "http://v.whatsapp.com/468268"
+         }, {
+            "date_added": "13213095369204450",
+            "guid": "70e9aa7d-b69c-4225-be16-0fc5882b783b",
+            "id": "7",
+            "name": "Mount Kenya University : Students Online Portal",
+            "type": "url",
+            "url": "https://studentportal.mku.ac.ke/umis/studentportal/result_slip.php"
+         }, {
+            "date_added": "13250010142110714",
+            "guid": "7c8b48f7-f03c-406f-9d41-5cda4201e5d8",
+            "id": "9",
+            "name": "Inbox - nazarinewasonga48@gmail.com - Gmail",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/0/#inbox"
+         }, {
+            "date_added": "13250787507361568",
+            "guid": "66627c63-33a6-48c5-814a-28367b6eef5b",
+            "id": "11",
+            "name": "Color Hunt - Color Palettes for Designers and Artists",
+            "type": "url",
+            "url": "https://colorhunt.co/"
+         } ],
+         "date_added": "13248454680885675",
+         "date_modified": "13250787507361568",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CrABCo8BCIiBAhKIARJ2CAISOAoGCgJibRABEDMaEgmAgCOr7rQFACGAgCOr7rQFADIYChYIAhE129277rQFABgAIQAAAAAAAAAAEjgKBgoCYmQQABAzGhIJgIAjq+60BQAhgIAjq+60BQAyGAoWCAIRNdvdu+60BQAYACEAAAAAAAAAACAASJ2KtP3fLnCdirT93y4SACABKhhFc3dzUGtIVW8xOXR4WWVYMFFKUmJBPT0SvgEIAxK5AQoceTVXRTI3dUk2dlgvRGVJU0hKem5qTXF1V1dzPRJmWjpBRHF0QVp3TkI3bDRoQXgwWGZUdjJablRxN0JkZzNCcWlXL0pZd3hhaDR6blhzSVRhTDlTNkNXNVZuZEZGYkhHSmQ5c2JhM3VHVVhjV05aRFZRbnBKWHg4REY0d3M4Sys2Zz09GAAgACgAMODgwtT/2ewCOABAAEocNzlsK0xSRVVwaWFFdkREK0c0M2NwWFN0d0JjPVoAEq0CCAkSqAIKHFo1SldiM2FQU0VGeGZUQjlzMmNSckpDWlo4QT0SpgFaOkFEcXRBWnpVWmE4alJaMkN3UkN4dlpyV1J2M1ViaUgzVHRXdzgrZ2RFV1E5SEhrRXcvbmxCQ0FBeUlMam9VeGtDQmRMeStpRHdaVGxNb1E1QnVuR01KUThBUEFGREJiOUZFSjRKeHFVY0JWV21UcEJhOHYrUlpFbGhQdWV2VGZtVmRyZlNlMHF3VE9YQ1BFemRrcitoWHkrc2lnd054eW9mQT09GAAgAigCMK+xltuhh+0COJ7bvYvdLkCl272L3S5KHFdYN1B6OFlhcEFSNHJ3cGpWRzBpMGdVd3NFbz1aHyId7C91Q1loQzNEYnVVcVYxbVJydGZ0U3RxRFhDYz1li6CM0RKtAggHEqgCChx4VjZYY0xZdStHQjdFbERmVHhueHhNeklKcGc9EqYBWjpBRHF0QVp6VVphOGpSWjJDd1JDeHZacldSdjNVNUZwSGtiN0ZyTSsyTS9mY1g4ZXByNURYL3FQOVJwaTJxMkZ6NmUxWCtvQWYyTUZnbHlJbjZaV3JKSC96MmpjT1NkV0wrQXV3QlRSSDNjbDFEZWVuQ09xRElCVWN1QnoxM1J6aVJOdExKVGN4dmFQc0k3T05mY2EwbjZadW9xVGdiZ0NsTWc9PRgAIAIoAjDuqb/S3uPsAjiv5pLJ0y1AzpvspdcuShxEWGFBaU9reU1IZ0NUdTR3NzhJTW8vUGQxR0k9Wh8iHdhTbFJFcXlBZmdsVkt4NENuQkZlOW13cUpPVWc9ZZUQltASrQIICxKoAgocM2F2Z1k2ZFdYYlZUWFdmWjFmYTVUcndaSGhrPRKmAVo6QURxdEFaelVaYThqUloyQ3dSQ3h2WnJXUnYzVWJpSDNUdFd3OCtnZEVXUTlISGtFdzNyejVCVnlRRzJCTzVwZk1xcWNCNjNEYkMycVBldExzWnRpbGdzSFMrNC9YUkJNNld5K2tOVVVURFRwSTZTYlBPeG1YRkxML3VvTmphbkh4b21uTWVueFhlRFdBbzhGd0ZCRDAwb282WWIxYmlVdmNRPT0YACACKAIw+OqD0PGd7QI4o6mU/t8uQKiplP7fLkocRmxsdGtGT3MwaW04RjZLcHlTUG5iWHU5R2U4PVofIh32OEdidG9BSWFDVEt1dWlONjFFSTlvRFFLM1hjPWVPOAR+Er4BCAISuQEKHHpEVkdycnRaTGRNKzRCVHliZytIQ09yV2d5bz0SZlo6QURxdEFaemlCTmNkT2JKam0zR2lpSmZnUDV6ejJDODlSaEtBL3JLMXNkbHc5R1NpOGUzR2d3TDJFOUtyREZ3aUlUS1UwMHh0VlIwWFB2S2EwR0QyRSt2WkpWUHIvNEVXOEE9PRgAIAAoADDg4MLU/9nsAjgAQABKHDV1c3kvY3BmcGkxRXRvQkhEZ1hJczBxYjRyQT1aABKmAQgBEqEBChwvRUtMYVVVeU1kYktFazFCYTJVaW55RG5mN0k9Ek5aOkFEcXRBWnpDMTY4UU1WdlY2M3JJR3BqOXVtVnFHQ1VzQVN2aXRuOHdmL0ZmeHNMbjdENHVXaUNLa1ZkMGwxeElsMmx2aVBUL0ZkOGEYACAAKAAw4ODC1P/Z7AI4AEAAShxVK0dHSXRaRURwWnNJU2xPVWFJVHVJTGRNbkk9WgASpwIIBRKiAgocZVFqUWVmQ0t5RDRwTEh0Z3pIeDdmMkZOTG44PRKmAVo6QURxdEFaelVaYThqUloyQ3dSQ3h2WnJXUnYzVXlid0F0SWtQdWJ0NERUaGxqTUxYbGdyYk9QRCs1UmdzUklSZlV4czBIZmp0bVJVbldJQkVPa3ZHZ2hhb2FpU0w4QzEwVkg4eGNrQUFZVmVKSUVON2RLczRaUE5Nam5xMGtSY1BGU1pNNXFRNE0zWVNjdFg3NTVTR2xreEVMWGtzblV1SjdRPT0YACABKAEw7qm/0t7j7AI4l83b/tEsQJfN2/7RLEocTDVCY252S05hZVNxWW9ocVphTTA4QzF0N3pVPVoeIhxjSTVtRjg0dUxXRDZ2YmhWeXBOeUdaL1YvdEE9EqgCCAYSowIKHEtkenJhbFdQeGJYaGVaMWtSaVU0MG42VEJKOD0SpgFaOkFEcXRBWnpVWmE4alJaMkN3UkN4dlpyV1J2M1V5YndBdElrUHVidDREVGhsak1MWGx0Z0ZGV1Y3cG5OUUM5b2NyVllxYllyUTA0end5U1A1anN2WTlOb0hGR3Y0S3pPR2twRExXU3dOTjI5QlphdjN3STBpY0dMajUrS0tFdnZuN1czcnoyK21BUGNyYWxDYnNuZ1o4TWtwU1RuNkhxWC8wdz09GAAgASgBMO6pv9Le4+wCOPPN2/7RLEDzzdv+0SxKHGVBc2k3em12dEdiTVArMXlBRWVtR1k1RXZ0TT1aHyIdsTFzQ3dmWW0wTGtxa1pQQ09EcFh4MlJocldBbz0YASDojLT93y4=",
+   "version": 1
+}

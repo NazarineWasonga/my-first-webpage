@@ -1,0 +1,6 @@
+2020/12/02-21:30:47.442 822 Reusing MANIFEST /home/moringaaccess/.config/Slack/Local Storage/leveldb/MANIFEST-000001
+2020/12/02-21:30:47.443 822 Recovering log #262
+2020/12/02-21:30:47.444 822 Reusing old log /home/moringaaccess/.config/Slack/Local Storage/leveldb/000262.log 
+2020/12/02-21:56:47.852 e2e Level-0 table #267: started
+2020/12/02-21:56:47.859 e2e Level-0 table #267: 13643 bytes OK
+2020/12/02-21:56:47.867 e2e Delete type=0 #262

@@ -1,0 +1,20 @@
+[+0.00s] DEBUG: simple-scan.vala:637: Starting Simple Scan 3.28.0, PID=2235
+[+0.03s] CRITICAL: g_action_print_detailed_name: assertion 'g_action_name_is_valid (action_name)' failed
+[+0.03s] CRITICAL: gtk_application_set_accels_for_action: assertion 'detailed_action_name != NULL' failed
+[+0.05s] DEBUG: app-window.vala:1714: Loading state from /home/moringaaccess/.cache/simple-scan/state
+[+0.05s] DEBUG: app-window.vala:1671: Restoring window to 600x400 pixels
+[+0.05s] DEBUG: autosave-manager.vala:64: Loading autosave information
+[+0.05s] DEBUG: autosave-manager.vala:259: Waiting to autosave...
+[+0.12s] DEBUG: scanner.vala:1454: sane_init () -> SANE_STATUS_GOOD
+[+0.12s] DEBUG: scanner.vala:1460: SANE version 1.0.27
+[+0.12s] DEBUG: scanner.vala:1521: Requesting redetection of scan devices
+[+0.12s] DEBUG: scanner.vala:806: Processing request
+[+0.15s] DEBUG: autosave-manager.vala:281: Autosaving book information
+[+0.34s] DEBUG: app-window.vala:1775: Saving state to /home/moringaaccess/.cache/simple-scan/state
+[+3.54s] DEBUG: app-window.vala:1775: Saving state to /home/moringaaccess/.cache/simple-scan/state
+[+3.65s] DEBUG: autosave-manager.vala:195: Deleting autosave records
+[+3.65s] DEBUG: scanner.vala:1597: Stopping scan thread
+[+4.73s] DEBUG: scanner.vala:341: sane_get_devices () -> SANE_STATUS_GOOD
+[+4.73s] DEBUG: scanner.vala:806: Processing request
+[+4.74s] DEBUG: scanner.vala:1608: sane_exit ()
+[+4.74s] CRITICAL: app_window_set_scan_devices: assertion 'self != NULL' failed

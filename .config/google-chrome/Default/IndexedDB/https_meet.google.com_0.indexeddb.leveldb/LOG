@@ -1,0 +1,15 @@
+2020/12/03-08:59:49.667 bde Reusing MANIFEST /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/03-08:59:49.667 bde Recovering log #61
+2020/12/03-08:59:49.668 bde Reusing old log /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/000061.log 
+2020/12/03-10:07:52.269 1382 Level-0 table #65: started
+2020/12/03-10:07:52.273 1382 Level-0 table #65: 190 bytes OK
+2020/12/03-10:07:52.278 1382 Delete type=0 #61
+2020/12/03-10:07:52.278 1382 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/03-10:07:52.278 1382 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 48 : 1
+2020/12/03-10:07:52.278 1382 Compacting 1@1 + 1@2 files
+2020/12/03-10:07:52.282 1382 Generated table #66@1: 18 keys, 506 bytes
+2020/12/03-10:07:52.282 1382 Compacted 1@1 + 1@2 files => 506 bytes
+2020/12/03-10:07:52.286 1382 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/03-10:07:52.287 1382 Delete type=2 #65
+2020/12/03-10:07:52.287 1382 Delete type=2 #44
+2020/12/03-10:07:52.287 1382 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 48 : 1 .. (end); will stop at (end)

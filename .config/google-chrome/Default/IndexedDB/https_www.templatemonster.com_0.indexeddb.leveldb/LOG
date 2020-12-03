@@ -1,0 +1,15 @@
+2020/12/02-12:54:43.364 3d92 Reusing MANIFEST /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_www.templatemonster.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/02-12:54:43.364 3d92 Recovering log #4
+2020/12/02-12:54:43.364 3d92 Reusing old log /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_www.templatemonster.com_0.indexeddb.leveldb/000004.log 
+2020/12/02-13:01:30.715 3f47 Level-0 table #8: started
+2020/12/02-13:01:30.719 3f47 Level-0 table #8: 479 bytes OK
+2020/12/02-13:01:30.724 3f47 Delete type=0 #4
+2020/12/02-13:01:30.724 3f47 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/02-13:01:30.724 3f47 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0c\x00P\x00r\x00o\x00m\x00p\x00t\x00C\x00l\x00o\x00s\x00e\x00d' @ 97 : 1
+2020/12/02-13:01:30.724 3f47 Compacting 1@1 + 1@2 files
+2020/12/02-13:01:30.741 3f47 Generated table #9@1: 25 keys, 957 bytes
+2020/12/02-13:01:30.741 3f47 Compacted 1@1 + 1@2 files => 957 bytes
+2020/12/02-13:01:30.746 3f47 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/02-13:01:30.746 3f47 Delete type=2 #5
+2020/12/02-13:01:30.746 3f47 Delete type=2 #8
+2020/12/02-13:01:30.746 3f47 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0c\x00P\x00r\x00o\x00m\x00p\x00t\x00C\x00l\x00o\x00s\x00e\x00d' @ 97 : 1 .. (end); will stop at (end)

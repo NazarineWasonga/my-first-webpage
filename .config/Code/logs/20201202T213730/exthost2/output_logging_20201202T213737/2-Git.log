@@ -1,0 +1,1146 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/moringaaccess/Desktop/pet-website
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :Index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git cat-file -s 82114f8c7dbb67026079a6364903e265371518c5
+> git check-ignore -v -z --stdin
+> git fetch
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git cat-file -s 82114f8c7dbb67026079a6364903e265371518c5
+> git show :Index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git cat-file -s 82114f8c7dbb67026079a6364903e265371518c5
+> git show :Index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git cat-file -s 82114f8c7dbb67026079a6364903e265371518c5
+> git show :Index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+fatal: no upstream configured for branch 'main'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git cat-file -s 82114f8c7dbb67026079a6364903e265371518c5
+> git show :Index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+fatal: no upstream configured for branch 'main'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+fatal: no upstream configured for branch 'main'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git cat-file -s 82114f8c7dbb67026079a6364903e265371518c5
+> git show :Index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+fatal: no upstream configured for branch 'main'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git rev-parse main
+> git cat-file -s 82114f8c7dbb67026079a6364903e265371518c5
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git show :Index.html
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git cat-file -s 82114f8c7dbb67026079a6364903e265371518c5
+> git show :Index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git cat-file -s 82114f8c7dbb67026079a6364903e265371518c5
+> git show :Index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git cat-file -s 82114f8c7dbb67026079a6364903e265371518c5
+> git show :Index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git cat-file -s 82114f8c7dbb67026079a6364903e265371518c5
+> git show :Index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git cat-file -s 82114f8c7dbb67026079a6364903e265371518c5
+> git show :Index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git cat-file -s 82114f8c7dbb67026079a6364903e265371518c5
+> git show :Index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git cat-file -s 82114f8c7dbb67026079a6364903e265371518c5
+> git show :Index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git cat-file -s 82114f8c7dbb67026079a6364903e265371518c5
+> git show :Index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git cat-file -s 82114f8c7dbb67026079a6364903e265371518c5
+> git show :Index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git cat-file -s 82114f8c7dbb67026079a6364903e265371518c5
+> git show :Index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git cat-file -s 82114f8c7dbb67026079a6364903e265371518c5
+> git show :Index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git cat-file -s 82114f8c7dbb67026079a6364903e265371518c5
+> git show :Index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git cat-file -s 05699d02167db4e4428c4f24c24319da3e0505ab
+> git show :Index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git cat-file -s 05699d02167db4e4428c4f24c24319da3e0505ab
+> git show :Index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git cat-file -s 05699d02167db4e4428c4f24c24319da3e0505ab
+> git show :Index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git cat-file -s 05699d02167db4e4428c4f24c24319da3e0505ab
+> git show :Index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git cat-file -s 05699d02167db4e4428c4f24c24319da3e0505ab
+> git show :Index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git cat-file -s 05699d02167db4e4428c4f24c24319da3e0505ab
+> git show :Index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git cat-file -s 05699d02167db4e4428c4f24c24319da3e0505ab
+> git show :Index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :styles.css
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/styles.css
+> git show :styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/styles.css
+> git show :styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git cat-file -s 05699d02167db4e4428c4f24c24319da3e0505ab
+> git show :styles.css
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/styles.css
+> git show :Index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git cat-file -s 05699d02167db4e4428c4f24c24319da3e0505ab
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git cat-file -s 05699d02167db4e4428c4f24c24319da3e0505ab
+> git show :Index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git cat-file -s 05699d02167db4e4428c4f24c24319da3e0505ab
+> git show :Index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :styles.css
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/styles.css
+> git fetch
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/styles.css
+> git show :styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/styles.css
+> git show :styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/styles.css
+> git show :styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/styles.css
+> git show :styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/styles.css
+> git show :styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/styles.css
+> git show :styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/styles.css
+> git show :styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/styles.css
+> git show :styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/styles.css
+> git show :styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/styles.css
+> git show :styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git cat-file -s 05699d02167db4e4428c4f24c24319da3e0505ab
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git cat-file -s 05699d02167db4e4428c4f24c24319da3e0505ab
+> git show :Index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git cat-file -s 05699d02167db4e4428c4f24c24319da3e0505ab
+> git show :Index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git cat-file -s 05699d02167db4e4428c4f24c24319da3e0505ab
+> git show :Index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git cat-file -s 05699d02167db4e4428c4f24c24319da3e0505ab
+> git show :Index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git cat-file -s 05699d02167db4e4428c4f24c24319da3e0505ab
+> git show :Index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git cat-file -s 05699d02167db4e4428c4f24c24319da3e0505ab
+> git show :Index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git cat-file -s 05699d02167db4e4428c4f24c24319da3e0505ab
+> git show :Index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git cat-file -s 05699d02167db4e4428c4f24c24319da3e0505ab
+> git show :Index.html

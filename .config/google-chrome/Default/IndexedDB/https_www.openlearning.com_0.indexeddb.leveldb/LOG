@@ -1,0 +1,8 @@
+2020/11/20-16:11:49.261 4d4c Reusing MANIFEST /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_www.openlearning.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/20-16:11:49.261 4d4c Recovering log #4
+2020/11/20-16:11:49.261 4d4c Reusing old log /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_www.openlearning.com_0.indexeddb.leveldb/000004.log 
+2020/11/20-16:11:55.727 4d4c Level-0 table #8: started
+2020/11/20-16:11:55.727 4d4c Level-0 table #8: 0 bytes OK
+2020/11/20-16:11:55.740 4d4c Delete type=0 #4
+2020/11/20-16:11:55.740 4d4c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/20-16:11:55.740 4d4c Manual compaction at level-1 from (begin) .. (end); will stop at (end)

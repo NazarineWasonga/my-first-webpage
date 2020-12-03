@@ -1,0 +1,8 @@
+2020/11/06-16:10:32.338 1e76 Reusing MANIFEST /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/06-16:10:32.339 1e76 Recovering log #7
+2020/11/06-16:10:32.339 1e76 Reusing old log /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/000007.log 
+2020/11/06-16:10:49.020 1e62 Level-0 table #11: started
+2020/11/06-16:10:49.020 1e62 Level-0 table #11: 0 bytes OK
+2020/11/06-16:10:49.031 1e62 Delete type=0 #7
+2020/11/06-16:10:49.031 1e62 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/06-16:10:49.031 1e62 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

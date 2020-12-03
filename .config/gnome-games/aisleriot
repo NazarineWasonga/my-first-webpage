@@ -1,0 +1,19 @@
+[Aisleriot Config]
+ShowToolbar=true
+ShowStatusbar=true
+Sound=true
+Animations=true
+Recent=klondike;aunt-mary;bakers-game;agnes;accordion;
+Variation=klondike.scm
+
+[klondike.scm]
+Statistic=0;3;0;0;
+
+[accordion.scm]
+Statistic=0;1;0;0;
+
+[agnes.scm]
+Statistic=0;1;0;0;
+
+[aunt_mary.scm]
+Statistic=0;1;0;0;

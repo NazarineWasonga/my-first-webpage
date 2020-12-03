@@ -1,0 +1,24 @@
+[2020-12-02 09:59:30.898] [exthost] [info] extension host started
+[2020-12-02 09:59:31.014] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onLanguage:html"}
+[2020-12-02 09:59:31.015] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-12-02 09:59:31.035] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2020-12-02 09:59:31.035] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2020-12-02 09:59:31.073] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-12-02 09:59:31.073] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-12-02 09:59:31.076] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-12-02 09:59:31.076] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-12-02 09:59:31.143] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-12-02 09:59:31.143] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-12-02 09:59:31.151] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-12-02 09:59:31.151] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-12-02 09:59:31.155] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":true,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"*"}
+[2020-12-02 09:59:31.155] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-12-02 09:59:31.171] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-12-02 09:59:31.171] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-12-02 09:59:31.173] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2020-12-02 09:59:31.173] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/moringaaccess/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2020-12-02 09:59:32.041] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-12-02 09:59:32.041] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2020-12-02 09:59:32.196] [exthost] [info] eager extensions activated
+[2020-12-02 10:00:01.798] [exthost] [info] ExtensionService#_doActivateExtension vscode.image-preview {"startup":false,"extensionId":{"value":"vscode.image-preview","_lower":"vscode.image-preview"},"activationEvent":"onCustomEditor:imagePreview.previewEditor"}
+[2020-12-02 10:00:01.799] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/image-preview/dist/extension

@@ -1,0 +1,8 @@
+2020/12/01-18:39:24.954 5a11 Reusing MANIFEST /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/01-18:39:24.954 5a11 Recovering log #104
+2020/12/01-18:39:24.955 5a11 Reusing old log /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000104.log 
+2020/12/01-18:39:26.962 5a11 Level-0 table #108: started
+2020/12/01-18:39:26.962 5a11 Level-0 table #108: 0 bytes OK
+2020/12/01-18:39:26.968 5a11 Delete type=0 #104
+2020/12/01-18:39:26.968 5a11 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/01-18:39:26.968 5a11 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,86 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/moringaaccess/Desktop/Pet-website
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/moringaaccess/Desktop/Pet-website/.git/refs/remotes/origin/gh-pages', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/moringaaccess/Desktop/Pet-website/.git/refs/remotes/origin/gh-pages'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:606659)
+	at T.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:84393)
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:262)
+	at e.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:103799)
+	at processTicksAndRejections (internal/process/task_queues.js:85:5)
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/moringaaccess/Desktop/Pet-website/.git/refs/remotes/origin/gh-pages', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/moringaaccess/Desktop/Pet-website/.git/refs/remotes/origin/gh-pages'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:606659)
+	at T.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:84393)
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:262)
+	at e.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:103799)
+> git config --get commit.template
+> git show :Index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/Pet-website/Index.html
+> git cat-file -s 05699d02167db4e4428c4f24c24319da3e0505ab
+> git check-ignore -v -z --stdin
+> git fetch
+> git status -z -u
+> git ls-files --stage -- /home/moringaaccess/Desktop/Pet-website/Index.html
+> git symbolic-ref --short HEAD
+> git cat-file -s 05699d02167db4e4428c4f24c24319da3e0505ab
+> git rev-parse main
+> git show :Index.html
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/moringaaccess/Desktop/Pet-website/.git/refs/remotes/origin/main', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/moringaaccess/Desktop/Pet-website/.git/refs/remotes/origin/main'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:606659)
+	at T.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:84393)
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:262)
+	at e.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:103799)
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/Pet-website/Index.html
+> git cat-file -s 05699d02167db4e4428c4f24c24319da3e0505ab
+> git show :Index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/moringaaccess/Desktop/Pet-website/.git/refs/remotes/origin/main', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/moringaaccess/Desktop/Pet-website/.git/refs/remotes/origin/main'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:606659)
+	at T.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:84393)
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:262)
+	at e.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:103799)
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/Pet-website/Index.html
+> git cat-file -s 05699d02167db4e4428c4f24c24319da3e0505ab
+> git show :Index.html

@@ -1,0 +1,14 @@
+[2020-12-02 19:08:19.927] [renderer4] [error] Unable to write to Workspace Settings because no workspace is opened. Please open a workspace first and try again.: Error: Unable to write to Workspace Settings because no workspace is opened. Please open a workspace first and try again.
+    at e.reject (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5363:839)
+    at e.resolveAndValidate (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5366:956)
+    at e.doWriteConfiguration (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5361:70)
+    at Object.factory (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5360:801)
+    at u.consume (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:130:75)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:129:886
+    at new Promise (<anonymous>)
+    at u.queue (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:129:810)
+    at e.writeConfiguration (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5360:786)
+    at C.writeConfigurationValue (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5389:83)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5377:320
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:85:5)

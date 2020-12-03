@@ -1,0 +1,15 @@
+2020/11/20-18:48:11.769 68d9 Reusing MANIFEST /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_pxlclnmdecom-a.akamaihd.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/20-18:48:11.769 68d9 Recovering log #7
+2020/11/20-18:48:11.769 68d9 Reusing old log /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_pxlclnmdecom-a.akamaihd.net_0.indexeddb.leveldb/000007.log 
+2020/11/20-18:48:13.795 6bf3 Level-0 table #12: started
+2020/11/20-18:48:13.802 6bf3 Level-0 table #12: 482 bytes OK
+2020/11/20-18:48:13.806 6bf3 Delete type=0 #7
+2020/11/20-18:48:13.806 6bf3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/20-18:48:13.806 6bf3 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x06\x00b\x00a\x00f\x00p\x00_\x00t' @ 73 : 1
+2020/11/20-18:48:13.806 6bf3 Compacting 1@1 + 1@2 files
+2020/11/20-18:48:13.810 6bf3 Generated table #13@1: 19 keys, 601 bytes
+2020/11/20-18:48:13.810 6bf3 Compacted 1@1 + 1@2 files => 601 bytes
+2020/11/20-18:48:13.815 6bf3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/20-18:48:13.815 6bf3 Delete type=2 #12
+2020/11/20-18:48:13.815 6bf3 Delete type=2 #9
+2020/11/20-18:48:13.815 6bf3 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x06\x00b\x00a\x00f\x00p\x00_\x00t' @ 73 : 1 .. (end); will stop at (end)

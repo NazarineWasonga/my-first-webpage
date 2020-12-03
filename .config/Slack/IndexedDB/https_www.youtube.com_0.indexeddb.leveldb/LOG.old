@@ -1,0 +1,8 @@
+2020/12/02-21:31:10.343 85d Reusing MANIFEST /home/moringaaccess/.config/Slack/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/02-21:31:10.343 85d Recovering log #42
+2020/12/02-21:31:10.343 85d Reusing old log /home/moringaaccess/.config/Slack/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000042.log 
+2020/12/02-21:31:12.353 889 Level-0 table #46: started
+2020/12/02-21:31:12.353 889 Level-0 table #46: 0 bytes OK
+2020/12/02-21:31:12.368 889 Delete type=0 #42
+2020/12/02-21:31:12.368 889 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/02-21:31:12.368 889 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

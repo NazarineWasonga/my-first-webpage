@@ -1,0 +1,15 @@
+2020/11/19-00:07:59.997 1b9a Reusing MANIFEST /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_www.atlassian.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/19-00:07:59.997 1b9a Recovering log #19
+2020/11/19-00:07:59.997 1b9a Reusing old log /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_www.atlassian.com_0.indexeddb.leveldb/000019.log 
+2020/11/19-00:18:52.978 211d Level-0 table #24: started
+2020/11/19-00:18:52.987 211d Level-0 table #24: 785 bytes OK
+2020/11/19-00:18:52.992 211d Delete type=0 #19
+2020/11/19-00:18:52.992 211d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/19-00:18:52.992 211d Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x1f\x01\x10\x003\x000\x004\x001\x009\x000\x007\x001\x008\x003\x001\x004\x002\x000\x000\x008\x00\x01(\x00c\x00t\x00.\x00p\x00.\x00m\x00.\x00V\x001\x00.\x003\x000\x004\x001\x009\x000\x007\x001\x008\x003\x001\x004\x002\x000\x000\x008\x00.\x001\x006\x000\x005\x007\x003\x003\x006\x008\x001\x001\x005\x002' @ 168 : 1
+2020/11/19-00:18:52.992 211d Compacting 1@1 + 1@2 files
+2020/11/19-00:18:52.996 211d Generated table #25@1: 29 keys, 998 bytes
+2020/11/19-00:18:52.996 211d Compacted 1@1 + 1@2 files => 998 bytes
+2020/11/19-00:18:53.001 211d compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/19-00:18:53.001 211d Delete type=2 #24
+2020/11/19-00:18:53.001 211d Delete type=2 #21
+2020/11/19-00:18:53.001 211d Manual compaction at level-1 from '\x00\x01\x01\x1f\x01\x10\x003\x000\x004\x001\x009\x000\x007\x001\x008\x003\x001\x004\x002\x000\x000\x008\x00\x01(\x00c\x00t\x00.\x00p\x00.\x00m\x00.\x00V\x001\x00.\x003\x000\x004\x001\x009\x000\x007\x001\x008\x003\x001\x004\x002\x000\x000\x008\x00.\x001\x006\x000\x005\x007\x003\x003\x006\x008\x001\x001\x005\x002' @ 168 : 1 .. (end); will stop at (end)

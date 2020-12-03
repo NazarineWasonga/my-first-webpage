@@ -1,0 +1,15 @@
+2020/11/02-22:57:46.376 192a Reusing MANIFEST /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/02-22:57:46.376 192a Recovering log #4
+2020/11/02-22:57:46.376 192a Reusing old log /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/000004.log 
+2020/11/02-23:23:36.922 1b35 Level-0 table #8: started
+2020/11/02-23:23:36.925 1b35 Level-0 table #8: 1089 bytes OK
+2020/11/02-23:23:36.934 1b35 Delete type=0 #4
+2020/11/02-23:23:36.934 1b35 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/02-23:23:36.934 1b35 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x03\x01,\x00p\x00e\x00r\x00s\x00i\x00s\x00t\x00:\x00s\x00l\x00a\x00c\x00k\x00-\x00c\x00l\x00i\x00e\x00n\x00t\x00-\x00T\x000\x001\x000\x001\x00L\x007\x004\x000\x00P\x004\x00-\x00U\x000\x001\x00D\x00V\x001\x00W\x00S\x00Y\x003\x00W' @ 147 : 0
+2020/11/02-23:23:36.934 1b35 Compacting 1@1 + 1@2 files
+2020/11/02-23:23:36.938 1b35 Generated table #9@1: 23 keys, 803 bytes
+2020/11/02-23:23:36.938 1b35 Compacted 1@1 + 1@2 files => 803 bytes
+2020/11/02-23:23:36.943 1b35 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/02-23:23:36.943 1b35 Delete type=2 #5
+2020/11/02-23:23:36.943 1b35 Delete type=2 #8
+2020/11/02-23:23:36.943 1b35 Manual compaction at level-1 from '\x00\x01\x01\x03\x01,\x00p\x00e\x00r\x00s\x00i\x00s\x00t\x00:\x00s\x00l\x00a\x00c\x00k\x00-\x00c\x00l\x00i\x00e\x00n\x00t\x00-\x00T\x000\x001\x000\x001\x00L\x007\x004\x000\x00P\x004\x00-\x00U\x000\x001\x00D\x00V\x001\x00W\x00S\x00Y\x003\x00W' @ 147 : 0 .. (end); will stop at (end)

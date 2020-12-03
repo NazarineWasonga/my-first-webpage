@@ -1,0 +1,40 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/moringaaccess
+> git fetch
+> git status -z -u
+From https://github.com/NazarineWasonga/my-first-webpage
+ * [new branch]      gh-pages   -> origin/gh-pages
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :Desktop/pet-website/my favorite pet.html/rr
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/my favorite pet.html/rr
+> git check-ignore -v -z --stdin
+> git show :Desktop/pet-website/my favorite pet.html/index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/my favorite pet.html/index.html
+> git check-ignore -v -z --stdin
+> git show :Desktop/pet-website/Index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :Desktop/pet-website/Index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git show :Desktop/pet-website/Index.html
+> git show :Desktop/pet-website/Index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git cat-file -s 82114f8c7dbb67026079a6364903e265371518c5
+> git show :Desktop/pet-website/Index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git cat-file -s 82114f8c7dbb67026079a6364903e265371518c5
+> git show :Desktop/pet-website/Index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/pet-website/Index.html
+> git cat-file -s 82114f8c7dbb67026079a6364903e265371518c5
+> git show :Desktop/pet-website/Index.html

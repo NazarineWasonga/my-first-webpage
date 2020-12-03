@@ -1,0 +1,471 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Error | Learn Version Control with Git</title>
+
+    
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PQTPB9');</script>
+
+    
+    <style>
+      /*! normalize.css v3.0.1 | MIT License | git.io/normalize */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0;padding:0;-webkit-tap-highlight-color:transparent}article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary{display:block}audio,canvas,progress,video{display:inline-block;vertical-align:baseline}audio:not([controls]){display:none;height:0}[hidden],template{display:none}a{background:0 0}a:active,a:hover{outline:0}abbr[title]{border-bottom:1px dotted}b,strong{font-weight:700}dfn{font-style:italic}h1{font-size:2em;margin:.67em 0}mark{background:#ff0;color:#000}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sup{top:-.5em}sub{bottom:-.25em}img{border:0;text-decoration:none}svg:not(:root){overflow:hidden}figure{margin:1em 40px}hr{box-sizing:content-box;height:0}pre{overflow:auto}code,kbd,pre,samp{font-family:monospace,monospace;font-size:1em}button,input,optgroup,select,textarea{color:inherit;font:inherit;margin:0}button{overflow:visible}button,select{text-transform:none}button,html input[type=button],input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer}button[disabled],html input[disabled]{cursor:default}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}input[type=checkbox],input[type=radio]{box-sizing:border-box;padding:0}input[type=number]::-webkit-inner-spin-button,input[type=number]::-webkit-outer-spin-button{height:auto}input[type=search]{-webkit-appearance:textfield;box-sizing:content-box}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration{-webkit-appearance:none}fieldset{border:1px solid silver;margin:0 2px;padding:.35em .625em .75em}legend{border:0;padding:0}textarea{overflow:auto}optgroup{font-weight:700}table{border-collapse:collapse;border-spacing:0}td,th{padding:0}html{color:#fff;font-family:proxima-nova,"Lucida Grande",Verdana,"Helvetica Neue",Helvetica,sans-serif;font-size:16px;line-height:1.875rem}body{font-size:1.25rem}h1,h2,h3,h4,h5,h6{font-family:proxima-nova,"Lucida Grande",Verdana,"Helvetica Neue",Helvetica,sans-serif;line-height:1.3;margin:0 0 .75rem;color:#00caf4}h1{font-size:48px;line-height:3.75rem;margin:20px 0 30px 0}h2{font-size:36px;margin-top:70px;margin-bottom:16px;clear:both}h3{font-size:1.75rem;clear:both}h4{font-size:1.5rem;clear:both}h5{font-size:1.25rem;font-weight:600;margin:0}h6{font-size:1.125rem;font-weight:500;margin:0}.theme--white h1,.theme--white h2,.theme--white h3,.theme--white h4,.theme--white h5,.theme--white h6{color:#002d4f}.theme--white h1{font-size:2.375rem;line-height:3rem;border-bottom:2px solid #ffc600;margin-top:0}.theme--white h2{font-size:1.875rem;border-bottom:2px solid #ffc600}.theme--white h3{margin-top:40px;border-bottom:1px solid #ffc600}.theme--white h4{margin-top:28px}a{color:#00caf4;text-decoration:none;transition:color 150ms ease}a:hover{color:shade(#00caf4,25%);text-decoration:underline}a:focus{outline:0;outline-offset:0}.theme--white a{color:#ee4b34}.theme--white a:hover{color:shade(#ee4b34,25%)}.theme--white a.button{color:#184772}p{margin:0 0 16px 0}p.subheader{text-align:center;max-width:700px;margin-left:auto;margin-right:auto}@media (min-width:0.0625em){p.subheader{font-size:1.5rem;line-height:2rem}}@media (min-width:47.5em){p.subheader{font-size:1.75rem;line-height:2.375rem}}hr{border-bottom:1px solid #d1deea;border-left:0;border-right:0;border-top:0;margin:1.5rem 0}.monospaced{font-family:Courier,monospace}.bold{font-weight:600}.font--highlight{display:inline;font-weight:600;color:#00caf4}.font--red{color:#ee4b34!important}figure{margin:0 0 24px 0}@media (min-width:550px){figure.right{float:right;margin-left:20px}figure.right::after{clear:both;content:"";display:block}}@media (min-width:550px){figure.left{float:left;margin-right:20px}figure.left::after{clear:both;content:"";display:block}}img,picture,video{margin:0;max-width:100%}.button,[type=button],[type=reset],[type=submit],button{-webkit-appearance:none;-moz-appearance:none;appearance:none;background-color:#ffb71f;border:3px solid #ffb71f;color:#fff;cursor:pointer;display:inline-block;font-family:proxima-nova,"Lucida Grande",Verdana,"Helvetica Neue",Helvetica,sans-serif;font-size:20px;-webkit-font-smoothing:antialiased;font-weight:600;line-height:2.25rem;padding:0 2rem;text-align:center;text-decoration:none;transition:background-color 150ms ease;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;vertical-align:middle;white-space:nowrap}.button:hover,[type=button]:hover,[type=reset]:hover,[type=submit]:hover,button:hover{background-color:#ffb71f;color:#000}.button:focus,[type=button]:focus,[type=reset]:focus,[type=submit]:focus,button:focus{outline:0 solid transparent;outline-offset:0}.button:disabled,[type=button]:disabled,[type=reset]:disabled,[type=submit]:disabled,button:disabled{cursor:not-allowed;opacity:.5}.button:disabled:hover,[type=button]:disabled:hover,[type=reset]:disabled:hover,[type=submit]:disabled:hover,button:disabled:hover{background-color:#ffb71f}.button--outlined{background-color:transparent}.button--primary{border-color:#ffc600}.button--primary:hover{background-color:#ffc600}.button--secondary{border-color:#00caf4}.button--secondary:hover{background-color:#00caf4}.button--twitter{padding-left:58px;background-color:#00caf4;background-image:url(/learn/img/icons/twitter-icon.svg);background-repeat:no-repeat;background-size:26px;background-position:12px center}.button__wrap{text-align:center}@media (min-width:47.5em){.button__wrap{display:inline-block}}.button__wrap .button{display:inline-block;min-width:270px;margin-top:20px}.button__wrap .note{display:inline-block;margin-top:4px;font-size:1rem;color:#fff;text-decoration:none}.button__wrap .note:hover{color:#ffc600}.button__wrap .note a{color:#fff}.button__wrap .note a:hover{color:#ffc600}@-webkit-keyframes submenu-show{0%{height:auto;width:750px;opacity:0;padding-top:20px}100%{height:auto;width:750px;opacity:1;padding-top:38px}}@keyframes submenu-show{0%{height:auto;width:750px;opacity:0;padding-top:20px}100%{height:auto;width:750px;opacity:1;padding-top:38px}}@-webkit-keyframes submenu-hide{0%{height:auto;width:750px;opacity:1;padding-top:38px}99%{height:auto;width:750px;opacity:0;padding-top:20px}100%{height:0;width:0;opacity:0;padding-top:20px}}@keyframes submenu-hide{0%{height:auto;width:750px;opacity:1;padding-top:38px}99%{height:auto;width:750px;opacity:0;padding-top:20px}100%{height:0;width:0;opacity:0;padding-top:20px}}html{box-sizing:border-box}*,::after,::before{box-sizing:inherit}body,html{height:100%;background:#fff}body{margin:0}.theme--10{color:#fff;background-color:#09233c}.theme--09{color:#fff;background-color:#002d4f}.theme--08{color:#fff;background-color:#083256}.theme--06{color:#fff;background-color:#164067}.theme--05{color:#fff;background-color:#184772}.theme--white{color:#002d4f;background-color:#fff}.visible-on--desktop,.visible-on--mac,.visible-on--mobile,.visible-on--windows{display:none}@media (min-width:0.0625em){main{padding-top:60px}}@media (min-width:47.5em){main{padding-top:80px}}.outer-container{width:100%;position:relative}.outer-container--padding{padding-top:100px;padding-bottom:95px}.outer-container--padding-top{padding-top:100px}.outer-container--padding-bottom{padding-bottom:95px}.outer-container--padding-tight{padding-top:35px;padding-bottom:30px}.inner-container--maxwidth{margin:0 auto}@media (min-width:0.0625em){.inner-container--maxwidth{padding:0 20px}}@media (min-width:67.5em){.inner-container--maxwidth{padding:0 50px}}.inner-container--maxwidth{max-width:1080px}.inner-container--fullwidth{width:100%}.outer-container{visibility:hidden}header.outer-container,nav.outer-container{visibility:visible}header{background-color:#002d4f}@media (min-width:0.0625em){header{padding-top:65px;padding-bottom:65px}}@media (min-width:47.5em){header{padding-top:112px;padding-bottom:112px}}header .inner-container{display:flex}header .inner-container:after{clear:both;content:"";display:block}@media (min-width:26.25em){header .header__claim{flex:1 0 470px}}@media (min-width:47.5em){header .header__claim{margin-right:50px}}header .header__claim h1{margin-top:0}header .header__claim h3.subline{font-size:1.5rem;font-weight:400;color:#fff;line-height:2.125rem}header .header__visual{flex:0 1 440px;text-align:center}@media (min-width:0.0625em){header .header__visual{display:none}}@media (min-width:47.5em){header .header__visual{display:block}}header .header__visual img,header .header__visual svg{width:100%;max-height:400px}.nav-top{position:fixed;top:0;z-index:201;background-color:#fff;color:#002d4f;font-size:1rem}.nav-top--mobile{max-width:100vw;transition:top .1s linear,height .2s linear}@media (min-width:47.5em){.nav-top--mobile{display:none}}.nav-top--mobile .top{height:60px;display:flex;align-items:center;background-color:#fff}.nav-top--mobile .top .logo{height:40px;margin-right:auto}.nav-top--mobile .top .logo a{display:flex;align-items:center;height:100%}.nav-top--mobile .top .logo svg{height:100%}.nav-top--mobile .top .logo .tower-icon{width:40px;margin-right:8px}.nav-top--mobile .top .logo .tower-claim{width:124px}.nav-top--mobile .top .openclose{cursor:pointer;float:right;position:relative;width:25px;height:30px}@media (min-width:47.5em){.nav-top--mobile .top .openclose{display:none}}.nav-top--mobile .top .openclose span{position:relative;display:block;width:100%;height:8px;border-bottom:3px solid #000;transform-origin:4px 0;transition:transform .5s cubic-bezier(.77,.2,.05,1),background .5s cubic-bezier(.77,.2,.05,1),opacity .55s ease}.nav-top--mobile .top .openclose span:nth-of-type(1){transform-origin:0 0}.nav-top--mobile .top .openclose span:nth-of-type(3){transform-origin:0 100%}.nav-top--mobile.hidden{top:-60px}.nav-top--mobile.closed{height:60px}.nav-top--mobile.closed .bottom,.nav-top--mobile.closed ul.primary{display:none}.nav-top--mobile.open{top:0;left:0;height:100vh;width:100vw;overflow:scroll;background-color:#fff}.nav-top--mobile.open .openclose span:nth-of-type(1){transform:rotate(45deg) translate(3px,-2px)}.nav-top--mobile.open .openclose span:nth-of-type(2){opacity:0}.nav-top--mobile.open .openclose span:nth-of-type(3){transform:rotate(-45deg) translate(0,0)}.nav-top--mobile ul.primary{margin-top:30px;margin-bottom:70px;margin-left:0}.nav-top--mobile ul.primary a{display:block}.nav-top--mobile ul.primary>li{margin:0}.nav-top--mobile ul.primary>li:before{content:none}.nav-top--mobile ul.primary label{margin:0;padding:0}.nav-top--mobile ul.primary h3{position:relative;padding:14px 0;border-top:1px solid #184772;margin:0;color:#002d4f;font-size:1.3125rem}.nav-top--mobile ul.primary h3 a{color:#002d4f;text-decoration:none}.nav-top--mobile ul.secondary{margin-left:0}.nav-top--mobile ul.secondary li{margin-left:0;margin-top:10px;padding-top:12px;border-top:1px solid #d1deea}.nav-top--mobile ul.secondary li:first-child{border-top:none;margin-top:0;padding-top:0}.nav-top--mobile ul.secondary li:before{content:none}.nav-top--mobile ul.secondary li a{display:block;text-decoration:none;color:#002d4f}.nav-top--mobile ul.secondary li h5{color:#184772}.nav-top--mobile ul.secondary li p{line-height:22px}.nav-top--mobile .group--git li a,.nav-top--mobile .group--webdevelopment li a{padding-left:70px;background-position:left center;background-repeat:no-repeat;background-size:auto 55px}.nav-top--mobile .group--git li.item--gitbook a,.nav-top--mobile .group--webdevelopment li.item--gitbook a{background-image:url(/learn/img/navigation/git-book.svg)}.nav-top--mobile .group--git li.item--firstaidkit a,.nav-top--mobile .group--webdevelopment li.item--firstaidkit a{background-image:url(/learn/img/navigation/first-aid-kit.svg)}.nav-top--mobile .group--git li.item--webinar a,.nav-top--mobile .group--webdevelopment li.item--webinar a{background-image:url(/learn/img/navigation/webinar.svg)}.nav-top--mobile .group--git li.item--videos a,.nav-top--mobile .group--webdevelopment li.item--videos a{background-image:url(/learn/img/navigation/videos.svg)}.nav-top--mobile .group--git li.item--website-optimization a,.nav-top--mobile .group--webdevelopment li.item--website-optimization a{background-image:url(/learn/img/navigation/website-optimization.svg)}.nav-top--mobile .group--cheatsheets li a{padding-left:40px;background-position:left center;background-repeat:no-repeat;background-size:auto 30px;line-height:30px}.nav-top--mobile .group--cheatsheets li.item--git a{background-image:url(/learn/img/navigation/cheatsheet_git.svg)}.nav-top--mobile .group--cheatsheets li.item--vscode a{background-image:url(/learn/img/navigation/cheatsheet_vscode.svg)}.nav-top--mobile .group--cheatsheets li.item--git-svn a{background-image:url(/learn/img/navigation/cheatsheet_subversion.svg)}.nav-top--mobile .group--cheatsheets li.item--vcs-workflow a{background-image:url(/learn/img/navigation/cheatsheet_workflow-of-vcs.svg)}.nav-top--mobile .group--cheatsheets li.item--website-optimization a{background-image:url(/learn/img/navigation/cheatsheet_website-optimization.svg)}.nav-top--mobile .group--cheatsheets li.item--tower a{background-image:url(/learn/img/navigation/cheatsheet_tower.svg)}.nav-top--mobile .group--cheatsheets li.item--xcode a{background-image:url(/learn/img/navigation/cheatsheet_xcode.svg)}.nav-top--mobile .group--cheatsheets li.item--commandline a{background-image:url(/learn/img/navigation/cheatsheet_command-line.svg)}.nav-top--standard{display:none}@media (min-width:47.5em){.nav-top--standard{display:block}}.nav-top--standard a{color:#002d4f;text-decoration:none}.nav-top--standard a:hover{color:#00caf4}.nav-top--standard a.button:hover{color:#fff}.nav-top--standard .inner-container{display:flex;flex-direction:row;align-items:center;padding:0 30px;height:80px;transition:height .2s linear}.nav-top--standard.small .inner-container{height:50px;border-bottom:1px solid #d1deea}.nav-top--standard .logo{height:50px;margin-right:auto}.nav-top--standard .logo a{display:flex;align-items:center;height:100%}.nav-top--standard .logo .tower-icon{height:100%;margin-right:10px}.nav-top--standard .logo .tower-claim{display:none}@media (min-width:900px){.nav-top--standard .logo .tower-claim{display:block;width:124px}}.nav-top--standard.small .logo{height:30px}.nav-top--standard ul.primary{margin:0 30px 0 0;list-style-type:none}.nav-top--standard ul.primary li{float:left;position:relative;margin-left:25px;margin-bottom:0}.nav-top--standard ul.primary li:before{content:none}.nav-top--standard ul.primary .with-submenu:after{content:"";display:inline-block;position:relative;width:10px;height:7px;margin-left:8px;background-repeat:no-repeat;background-size:contain;background-image:url(data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2025%2013.99%22%3E%0D%0A%20%20%3Cpath%20d%3D%22M0%201A1%201%200%200%201%20.29.29a1%201%200%200%201%201.39%200L12.5%2011.18%2023.32.28a1%201%200%200%201%201.39%200%201%201%200%200%201%200%201.41L12.5%2014%20.29%201.69A1%201%200%200%201%200%201%22%20fill%3D%22%2351bbf1%22%2F%3E%0D%0A%3C%2Fsvg%3E)}.nav-top--standard ul.primary .active,.nav-top--standard ul.primary .active>a{color:#00caf4}.nav-top--standard div.secondary{display:none;position:absolute;overflow:hidden;z-index:10;max-width:95vw;top:100%;right:0;padding:0 20px 20px 20px}@media (min-width:0.0625em){.nav-top--standard div.secondary{transform:translateX(220px)}}@media (min-width:67.5em){.nav-top--standard div.secondary{transform:translateX(0)}}.nav-top--standard div.secondary.hidden{display:block;-webkit-animation:submenu-hide;animation:submenu-hide;-webkit-animation-duration:.2s;animation-duration:.2s;-webkit-animation-fill-mode:forwards;animation-fill-mode:forwards}.nav-top--standard div.secondary.visible{display:block;-webkit-animation:submenu-show;animation:submenu-show;-webkit-animation-duration:.6s;animation-duration:.6s;-webkit-animation-fill-mode:forwards;animation-fill-mode:forwards}.nav-top--standard div.secondary .secondary__container{width:100%;position:relative;background-color:#fff;border-bottom:9px solid #00caf4!important;box-shadow:0 6px 17px 0 rgba(10,25,36,.25);padding:30px 0}.nav-top--standard div.secondary .secondary__container::after{clear:both;content:"";display:block}.nav-top--standard div.secondary .secondary__container:before{position:absolute;background-color:#fff;border-bottom-left-radius:1px;border-right:0;border-top:0;content:"";height:15px;top:-5px;transform:rotate(135deg);width:20px}@media (min-width:0.0625em){.nav-top--standard div.secondary .secondary__container:before{right:310px}}@media (min-width:67.5em){.nav-top--standard div.secondary .secondary__container:before{right:100px}}.nav-top--standard div.secondary .secondary__group{float:left;margin:0 5% 40px 5%;width:40%;min-width:250px}.nav-top--standard div.secondary .secondary__group h3{font-size:1.625rem;color:#002d4f;border-bottom:1px solid #00caf4}.nav-top--standard div.secondary .secondary__group h5{color:#002d4f;font-size:1.25rem;margin-bottom:2px}.nav-top--standard div.secondary .secondary__group p{margin:0;font-size:.875rem;line-height:1.25rem}.nav-top--standard div.secondary .secondary__group ul{margin-left:0}.nav-top--standard div.secondary .secondary__group li{margin-left:0}.nav-top--standard div.secondary .secondary__group.group--git li,.nav-top--standard div.secondary .secondary__group.group--webdevelopment li{margin-bottom:30px}.nav-top--standard div.secondary .secondary__group.group--git li:last-child,.nav-top--standard div.secondary .secondary__group.group--webdevelopment li:last-child{margin-bottom:0}.nav-top--standard div.secondary .secondary__group.group--git li:first-child,.nav-top--standard div.secondary .secondary__group.group--webdevelopment li:first-child{margin-top:10px}.nav-top--standard div.secondary .secondary__group.group--git li a,.nav-top--standard div.secondary .secondary__group.group--webdevelopment li a{display:inline-block;padding-left:85px;background-position:left center;background-repeat:no-repeat;background-size:70px}.nav-top--standard div.secondary .secondary__group.group--git li.item--gitbook a,.nav-top--standard div.secondary .secondary__group.group--webdevelopment li.item--gitbook a{background-image:url(/learn/img/navigation/git-book.svg)}.nav-top--standard div.secondary .secondary__group.group--git li.item--firstaidkit a,.nav-top--standard div.secondary .secondary__group.group--webdevelopment li.item--firstaidkit a{background-image:url(/learn/img/navigation/first-aid-kit.svg)}.nav-top--standard div.secondary .secondary__group.group--git li.item--webinar a,.nav-top--standard div.secondary .secondary__group.group--webdevelopment li.item--webinar a{background-image:url(/learn/img/navigation/webinar.svg)}.nav-top--standard div.secondary .secondary__group.group--git li.item--videos a,.nav-top--standard div.secondary .secondary__group.group--webdevelopment li.item--videos a{background-image:url(/learn/img/navigation/videos.svg)}.nav-top--standard div.secondary .secondary__group.group--git li.item--website-optimization a,.nav-top--standard div.secondary .secondary__group.group--webdevelopment li.item--website-optimization a{background-image:url(/learn/img/navigation/website-optimization.svg)}.nav-top--standard div.secondary .secondary__group.group--cheatsheets li a{display:block;padding-left:36px;background-position:left center;background-repeat:no-repeat;background-size:30px;line-height:40px}.nav-top--standard div.secondary .secondary__group.group--cheatsheets li.item--git a{background-image:url(/learn/img/navigation/cheatsheet_git.svg)}.nav-top--standard div.secondary .secondary__group.group--cheatsheets li.item--vscode a{background-image:url(/learn/img/navigation/cheatsheet_vscode.svg);width:190px}.nav-top--standard div.secondary .secondary__group.group--cheatsheets li.item--git-svn a{background-image:url(/learn/img/navigation/cheatsheet_subversion.svg)}.nav-top--standard div.secondary .secondary__group.group--cheatsheets li.item--vcs-workflow a{background-image:url(/learn/img/navigation/cheatsheet_workflow-of-vcs.svg)}.nav-top--standard div.secondary .secondary__group.group--cheatsheets li.item--website-optimization a{background-image:url(/learn/img/navigation/cheatsheet_website-optimization.svg)}.nav-top--standard div.secondary .secondary__group.group--cheatsheets li.item--tower a{background-image:url(/learn/img/navigation/cheatsheet_tower.svg);width:190px}.nav-top--standard div.secondary .secondary__group.group--cheatsheets li.item--xcode a{background-image:url(/learn/img/navigation/cheatsheet_xcode.svg)}.nav-top--standard div.secondary .secondary__group.group--cheatsheets li.item--commandline a{background-image:url(/learn/img/navigation/cheatsheet_command-line.svg)}.nav-top--standard .try-tower a{display:inline;font-size:1rem;padding:0 1rem}
+/*# sourceMappingURL=critical.min.css.map */
+
+    </style>
+    
+
+    
+    
+    
+    <link rel="stylesheet" href="/learn/css/default.min.css" media="print" onload="this.media='all'; this.onload=null;">
+    <noscript><link rel="stylesheet" href="/learn/css/default.min.css"></noscript>
+    
+
+    <link rel="canonical" href="">
+
+    
+
+
+<meta name="description" content="Our learn section helps you get started with various web and software skills. Free online books, videos, and ebooks get you off the ground as quickly as possible." />
+<meta name="keywords" content="git, version control, vcs, tutorial, help, learn, ebook, video, subversion" />
+
+<meta property="og:title" content="Error" />
+<meta property="og:image" content="/learn/img/social/learn_og_image@2x.png" />
+<meta property="og:description" content="Our learn section helps you get started with various web and software skills. Free online books, videos, and ebooks get you off the ground as quickly as possible." />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@fournova" />
+<meta name="twitter:title" content="Error" />
+<meta name="twitter:description" content="Our learn section helps you get started with various web and software skills. Free online books, videos, and ebooks get you off the ground as quickly as possible." />
+<meta name="twitter:image:src" content="/learn/img/social/learn_og_image@2x.png" />
+
+
+    <link rel="shortcut icon" sizes="16x16" type="image/png" href="/learn/img/favicons/favicon@16w.png">
+<link rel="shortcut icon" sizes="32x32" type="image/png" href="/learn/img/favicons/favicon@32w.png">
+<link rel="icon" sizes="16x16" href="/learn/img/favicons/favicon@16w.ico" type="image/x-icon">
+<link rel="apple-touch-icon" href="/learn/img/favicons/favicon@76w.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/learn/img/favicons/favicon@76w.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/learn/img/favicons/favicon@120w.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/learn/img/favicons/favicon@152w.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/learn/img/favicons/favicon@180w.png">
+<link rel="apple-touch-icon" sizes="192x192" href="/learn/img/favicons/favicon@192w.png">
+<link rel="icon" sizes="192x192" href="/learn/img/favicons/favicon@192w.png">
+
+
+    <script defer src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    
+    
+    <script defer src="/learn/js/default.min.js"></script>
+    
+
+    <script>
+  (function(d) {
+    var config = {
+      kitId: 'kqr6yvx',
+      scriptTimeout: 3000,
+      async: true
+    },
+    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+  })(document);
+</script>
+
+  </head>
+
+  <body id="page--error"
+        class="body--default">
+    
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PQTPB9"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    
+
+
+
+
+<nav class="outer-container nav-top nav-top--mobile closed">
+  <div class="inner-container inner-container--maxwidth">
+    <div class="top">
+      <div class="logo">
+        <a href="https://www.git-tower.com/?utm_source=learn-website&utm_medium=navigation" class="analytics--click" target="_blank">
+          <img class="tower-icon" src="/learn/img/tower-icon.svg">
+          <img class="tower-claim" src="/learn/img/tower-claim.svg">
+        </a>
+      </div>
+      <div class="openclose">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </div>
+
+    <ul class="primary">
+      <li>
+        <h3><a href="https://www.git-tower.com/learn/">Home</a></h3>
+      </li>
+      <li>
+        <h3><a href="https://www.git-tower.com/blog/?utm_source=learn-website&utm_medium=navigation">Blog</a></h3>
+      </li>
+      <li>
+        <div class="group--git">
+          <h3>Git & Version Control</h3>
+          <ul class="secondary">
+            <li class="item--gitbook"><a href="/learn/git/ebook"><h5>Online Book</h5><p>A beginner-friendly book that takes you from novice to master.</p></a></li>
+            <li class="item--firstaidkit"><a href="/learn/git/first-aid-kit"><h5>First Aid Kit</h5><p>Learn how to undo and recover from mistakes with our handy videos series and cheat sheet.</p></a></li>
+            <li class="item--webinar"><a href="/learn/git/webinar/undoing-things-with-git/"><h5>Webinar</h5><p>Join a live Webinar and learn from a Git professional.</p></a></li>
+            <li class="item--videos"><a href="/learn/git/videos"><h5>Video Course</h5><p>24 episodes explain Git and version control step-by-step, one topic per video.</p></a></li>
+          </ul>
+        </div>
+        <div class="group--cheatsheets">
+          <h3>Cheat Sheets</h3>
+          <ul class="secondary">
+            <li class="item--git"><a href="/learn/cheat-sheets/git">Git</a></li>
+            <li class="item--vscode"><a href="/learn/cheat-sheets/vscode">Visual Studio Code</a></li>
+            <li class="item--tower"><a href="/learn/cheat-sheets/tower">Tower Git Client</a></li>
+            <li class="item--xcode"><a href="/learn/cheat-sheets/xcode">Xcode</a></li>
+            <li class="item--commandline"><a href="/learn/cheat-sheets/cli">Command Line 101</a></li>
+            <li class="item--git-svn"><a href="/learn/cheat-sheets/git-for-svn">Git for Subversion Users</a></li>
+            <li class="item--vcs-workflow"><a href="/learn/cheat-sheets/vcs-workflow">Version Control Workflow</a></li>
+            <li class="item--website-optimization"><a href="/learn/cheat-sheets/website-optimization">Website Optimization</a></li>
+          </ul>
+        </div>
+        <div class="group--webdevelopment">
+          <h3>Web Development</h3>
+          <ul class="secondary">
+            <li class="item--website-optimization"><a href="/learn/website-optimization"><h5>Website Optimization</h5><p>Websites need to load fast to make visitors happy. This guide helps you optimize your website for speed and performance.</p></a></li>
+          </ul>
+        </div>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+
+
+<nav class="outer-container nav-top nav-top--standard">
+  <div class="inner-container inner-container--fullwidth">
+    <div class="logo">
+      <a href="https://www.git-tower.com/?utm_source=learn-website&utm_medium=navigation" class="analytics--click" target="_blank"><img class="tower-icon" src="/learn/img/tower-icon.svg"><img class="tower-claim" src="/learn/img/tower-claim.svg"></a>
+    </div>
+
+    <ul class="primary">
+      <li>
+        <a href="https://www.git-tower.com/learn/">Home</a>
+      </li>
+      <li>
+        <a href="https://www.git-tower.com/blog/?utm_source=learn-website&utm_medium=navigation">Blog</a>
+      </li>
+      <li>
+        <a class="with-submenu">More Learning Content</a>
+        <div class="secondary">
+          <div class="secondary__container">
+            <div class="secondary__group group--git">
+              <h3>Git & Version Control</h3>
+              <ul>
+                <li class="item--gitbook"><a href="/learn/git/ebook"><h5>Online Book</h5><p>A beginner-friendly book that takes you from novice to master.</p></a></li>
+                <li class="item--firstaidkit"><a href="/learn/git/first-aid-kit"><h5>First Aid Kit</h5><p>Learn how to undo and recover from mistakes with our handy videos series and cheat sheet.</p></a></li>
+                <li class="item--webinar"><a href="/learn/git/webinar/undoing-things-with-git/"><h5>Webinar</h5><p>Join a live Webinar and learn from a Git professional.</p></a></li>
+                <li class="item--videos"><a href="/learn/git/videos"><h5>Video Course</h5><p>24 episodes explain Git and version control step-by-step, one topic per video.</p></a></li>
+              </ul>
+            </div>
+            <div class="secondary__group group--cheatsheets">
+              <h3>Cheat Sheets</h3>
+              <ul>
+                <li class="item--vscode"><a href="/learn/cheat-sheets/vscode">Visual Studio Code</a></li>
+                <li class="item--git"><a href="/learn/cheat-sheets/git">Git</a></li>
+                <li class="item--tower"><a href="/learn/cheat-sheets/tower">Tower Git Client</a></li>
+                <li class="item--xcode"><a href="/learn/cheat-sheets/xcode">Xcode</a></li>
+                <li class="item--commandline"><a href="/learn/cheat-sheets/cli">Command Line 101</a></li>
+                <li class="item--git-svn"><a href="/learn/cheat-sheets/git-for-svn">Git for Subversion Users</a></li>
+                <li class="item--vcs-workflow"><a href="/learn/cheat-sheets/vcs-workflow">Version Control Workflow</a></li>
+                <li class="item--website-optimization"><a href="/learn/cheat-sheets/website-optimization">Website Optimization</a></li>
+              </ul>
+            </div>
+            <div class="secondary__group group--webdevelopment">
+              <h3>Web Development</h3>
+              <ul>
+                <li class="item--website-optimization"><a href="/learn/website-optimization"><h5>Website Optimization</h5><p>Optimize your website for speed & performance to make your visitors and Google happy!</p></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </li>
+    </ul>
+
+    <div class="try-tower">
+      <span><a class="button button--start-trial button--secondary button--outlined analytics--click" href="https://www.git-tower.com" target="_blank">Try Tower - For Free</a></span>
+    </div>
+  </div>
+</nav>
+
+
+<main>
+  
+<header class="outer-container">
+  <div class="inner-container inner-container--maxwidth">
+    <div class="header__claim">
+      
+      <h1 class="headline">Become a Better Professional</h1>
+      
+      
+      <h3 class="subline">With our awesome courses. For free.</h1>
+      
+    </div>
+    <div class="header__visual">
+      
+      <img src="/learn/img/header-visuals/learners.svg">
+    </div>
+</header>
+
+
+
+  <section class="outer-container outer-container--padding theme--05">
+    <div class="inner-container inner-container--maxwidth">
+      <h1 style="text-align:center">This is so embarrassing...</h1>
+<div style="text-align:center">
+  Looks like we've misplaced that page.<br>
+  But do not despair: our <a href="/learn/">homepage</a> has links to lots of great content!
+</div>
+
+    </div>
+  </section>
+</main>
+
+
+
+
+
+
+
+
+
+<section class="signup__wrapper signup--cheatsheet-package_huge outer-container theme--10">
+  <div class="inner-container">
+    <div class="signup__content">
+      <div class="signup__text">
+        <h3>Get our popular <b>Git Cheat Sheet</b> for free!</h3>
+        <p>You'll find the most important commands on the front and helpful best practice tips on the back. Over 100,000 developers have downloaded it to make Git a little bit easier.</p>
+        
+
+<form class="newsletter-form analytics--submit"
+      
+      autocomplete="off">
+  
+  
+  <input type="hidden" name="signupForm" value="7" />
+  
+
+  
+  <input type="hidden" name="lists[]" value="tower-newsletter" />
+  
+
+  
+  <div class="newsletter-form__groups">
+    
+    <div class="row" style="display: none">
+      <label>
+        <input class="signup-tag__item"
+               name="tags[]"
+               type="checkbox"
+               value="tower_newsletter"
+               checked
+               id="signup-tag__tower_newsletter"
+                />New content and updates
+      </label>
+    </div>
+    
+    <div class="row">
+      <label>
+        <input class="signup-tag__item"
+               name="tags[]"
+               type="checkbox"
+               value="incentive_cheatpackage"
+               
+               id="signup-tag__incentive_cheatpackage"
+               data-required="true" />Yes, send me the cheat sheet and sign me up for the Tower newsletter. It's free, it's sent infrequently, you can unsubscribe any time.
+      </label>
+    </div>
+    
+  </div>
+  
+
+  
+  <div class="newsletter-form__consent">
+    
+    <label>
+      <input type="checkbox"
+             id="consent--legal"
+             class="consent__item consent__text"
+             data-required="true" />I have read and accept the <a href="https://www.git-tower.com/legal/privacy-policy" target="_blank">Privacy Policy</a>. I understand that I can unsubscribe at any time.
+      </label>
+    
+  </div>
+  
+
+  <div class="newsletter-form__signup">
+    <input type="text" name="email" placeholder="Your email address" />
+    <input type="submit"
+           value=""
+           class="newsletter-form__signup-button" />
+  </div>
+
+  
+  <input type="hidden" name="signup[medium]" value="learn-website" />
+  
+  
+  
+  <input type="hidden" name="signup[URI]" value="error/cheatsheet-package_huge" />
+  
+  
+  
+  <input type="hidden" name="signup[OS]" value="" />
+  
+  
+  <div class="request-notice"></div>
+</form>
+
+      </div>
+  		<div class="signup__image">
+        <img src="/learn/img/popups/cheat-sheet-illu-huge.svg">
+      </div>
+    </div>
+
+  </div>
+</section>
+
+
+
+
+<section id="about__wrapper" class="outer-container outer-container--padding theme--05">
+  <div class="inner-container inner-container--maxwidth">
+    <div class="about__content">
+      <div class="about__text">
+        <h2>About Us</h2>
+        <p>As the makers of <a class="analytics--click" href="https://www.git-tower.com/?utm_source=learn-website&utm_medium=about-us&utm_campaign=learn-git" target="_blank">Tower</a>, the best Git client for Mac and Windows, we help over 100,000 users in companies like Apple, Google, Amazon, Twitter, and Ebay get the most out of Git.</p>
+        <p>Just like with Tower, our mission with this platform is to help people become better professionals.</p>
+        <p>That's why we provide our guides, videos, and cheat sheets (about version control with Git and lots of other topics) for free.</p>
+      </div>
+      <div class="about__icon">
+        <a class="analytics--click" href="https://www.git-tower.com/?utm_source=learn-website&utm_medium=about-us&utm_campaign=learn-git" target="_blank">
+          <img class="tower-icon" src="/learn/img/tower-icon.svg">
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+<nav class="outer-container nav-bottom theme--10">
+  <div class="inner-container inner-container--maxwidth">
+
+    <div class="nav-bottom__col">
+      <div class="nav-bottom__group">
+        <input type="checkbox" id="footer-group__about" class="footer-group__toggle">
+        <label for="footer-group__about"><h5>About</h5></label>
+        <ul>
+          <li><a href="https://www.git-tower.com/company/about">About</a></li>
+          <li><a href="https://www.git-tower.com/blog">Blog</a></li>
+          <li><a href="https://stuff.git-tower.com/">Merch</a></li>
+          <li><a href="https://www.git-tower.com">Tower Git Client</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="nav-bottom__col">
+      <div class="nav-bottom__group">
+        <input type="checkbox" id="footer-group__git" class="footer-group__toggle">
+        <label for="footer-group__git"><h5>Git & Version Control</h5></label>
+        <ul>
+          <li><a href="/learn/git/ebook">Online Book</a></li>
+          <li><a href="/learn/git/first-aid-kit">First Aid Kit</a></li>
+          <li><a href="/learn/git/webinar/undoing-things-with-git/">Webinar</a></li>
+          <li><a href="/learn/git/videos">Video Course</a></li>
+          <li><a href="/learn/git/faq">FAQ</a></li>
+          <li><a href="/learn/git/glossary">Glossary</a></li>
+          <li><a href="/learn/git/commands">Commands</a></li>
+        </ul>
+      </div>
+      <div class="nav-bottom__group">
+        <input type="checkbox" id="footer-group__webdevelopment" class="footer-group__toggle">
+        <label for="footer-group__webdevelopment"><h5>Web Development</h5></label>
+        <ul>
+          <li><a href="/learn/website-optimization">Website Optimization</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="nav-bottom__col">
+      <div class="nav-bottom__group">
+        <input type="checkbox" id="footer-group__cheatsheets" class="footer-group__toggle">
+        <label for="footer-group__cheatsheets"><h5>Cheat Sheets</h5></label>
+        <ul>
+          <li><a href="/learn/cheat-sheets/git">Git</a></li>
+          <li><a href="/learn/cheat-sheets/vscode">Visual Studio Code</a></li>
+          <li><a href="/learn/cheat-sheets/tower">Tower Git Client</a></li>
+          <li><a href="/learn/cheat-sheets/xcode">Xcode</a></li>
+          <li><a href="/learn/cheat-sheets/cli">Command Line 101</a></li>
+          <li><a href="/learn/cheat-sheets/git-for-svn">Git for Subversion Users</a></li>
+          <li><a href="/learn/cheat-sheets/vcs-workflow">Workflow of Version Control</a></li>
+          <li><a href="/learn/cheat-sheets/website-optimization">Website Optimization</a></li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+</nav>
+
+    <footer class="outer-container theme--10">
+      <div class="copyright">
+        <p>
+          ¬© 2010-2020
+          <a href="https://www.fournova.com" target="_blank">fournova Software GmbH</a>
+          ‚Äî Mentioned product names and logos are property of their respective owners.
+        </p>
+        <p>
+          <a href="https://www.git-tower.com/legal/imprint">
+            Imprint / Legal Notice
+          </a>&nbsp;|&nbsp;<a href="https://www.git-tower.com/legal/privacy-policy">
+            Privacy Policy</a>
+          </p>
+      </div>
+    </footer>
+
+    
+    <script type="text/javascript" src="https://a.omappapi.com/app/js/api.min.js" data-account="92193" data-user="81944" async></script>
+    
+  </body>
+</html>
+
+
+
+ù%¬ˇwë      _ø˝æ_ø˝æB^›+       7    :https://www.git-tower.com/learn/assets/img/favicon.ico necko:classified 1 strongly-framed 1 security-info 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 request-method GET response-head HTTP/1.1 404 Not Found
+Date: Wed, 25 Nov 2020 11:42:38 GMT
+Server: Apache
+Last-Modified: Sun, 15 Nov 2020 08:45:31 GMT
+ETag: "9ab1-5b42148bfc0c0"
+Accept-Ranges: bytes
+Content-Length: 39601
+Access-Control-Allow-Origin: https://staging.git-tower.com
+Content-Security-Policy: frame-ancestors 'self';
+Cache-Control: public, max-age=900, no-transform
+Content-Type: text/html
+ original-response-headers Date: Wed, 25 Nov 2020 11:42:38 GMT
+Server: Apache
+Last-Modified: Sun, 15 Nov 2020 08:45:31 GMT
+ETag: "9ab1-5b42148bfc0c0"
+Accept-Ranges: bytes
+Content-Length: 39601
+Access-Control-Allow-Origin: https://staging.git-tower.com
+Content-Security-Policy: frame-ancestors 'self';
+Cache-Control: public, max-age=900, no-transform
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html
+ ctid 1 uncompressed-len 0 net-response-time-onstart 2597 net-response-time-onstop 2842   ö±

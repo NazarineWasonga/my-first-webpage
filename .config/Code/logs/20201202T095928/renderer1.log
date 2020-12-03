@@ -1,0 +1,2 @@
+[2020-12-02 09:59:33.227] [renderer1] [error] Error: [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-12-02 09:59:33.243] [renderer1] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
