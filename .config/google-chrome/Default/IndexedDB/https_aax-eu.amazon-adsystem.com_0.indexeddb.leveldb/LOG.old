@@ -1,0 +1,15 @@
+2020/12/04-12:11:59.552 2a90 Reusing MANIFEST /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_aax-eu.amazon-adsystem.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/04-12:11:59.553 2a90 Recovering log #4
+2020/12/04-12:11:59.553 2a90 Reusing old log /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_aax-eu.amazon-adsystem.com_0.indexeddb.leveldb/000004.log 
+2020/12/04-12:12:02.350 2a90 Level-0 table #8: started
+2020/12/04-12:12:02.354 2a90 Level-0 table #8: 190 bytes OK
+2020/12/04-12:12:02.359 2a90 Delete type=0 #4
+2020/12/04-12:12:02.359 2a90 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/04-12:12:02.359 2bd9 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 9 : 1
+2020/12/04-12:12:02.359 2bd9 Compacting 1@1 + 1@2 files
+2020/12/04-12:12:02.368 2bd9 Generated table #9@1: 8 keys, 370 bytes
+2020/12/04-12:12:02.368 2bd9 Compacted 1@1 + 1@2 files => 370 bytes
+2020/12/04-12:12:02.376 2bd9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/04-12:12:02.376 2bd9 Delete type=2 #5
+2020/12/04-12:12:02.376 2bd9 Delete type=2 #8
+2020/12/04-12:12:02.376 2bd9 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 9 : 1 .. (end); will stop at (end)

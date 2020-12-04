@@ -1,0 +1,15 @@
+2020/12/04-16:13:40.689 3eed Reusing MANIFEST /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_checkmarx.atlassian.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/04-16:13:40.746 3eed Recovering log #4
+2020/12/04-16:13:40.750 3eed Reusing old log /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_checkmarx.atlassian.net_0.indexeddb.leveldb/000004.log 
+2020/12/04-16:15:48.146 40c7 Level-0 table #8: started
+2020/12/04-16:15:48.155 40c7 Level-0 table #8: 454 bytes OK
+2020/12/04-16:15:48.160 40c7 Delete type=0 #4
+2020/12/04-16:15:48.160 40c7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/04-16:15:48.160 40c7 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0f\x00d\x00i\x00s\x00a\x00b\x00l\x00e\x00V\x00i\x00e\x00w\x00P\x00a\x00g\x00e' @ 98 : 1
+2020/12/04-16:15:48.160 40c7 Compacting 1@1 + 1@2 files
+2020/12/04-16:15:48.164 40c7 Generated table #9@1: 24 keys, 723 bytes
+2020/12/04-16:15:48.164 40c7 Compacted 1@1 + 1@2 files => 723 bytes
+2020/12/04-16:15:48.168 40c7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/04-16:15:48.168 40c7 Delete type=2 #5
+2020/12/04-16:15:48.168 40c7 Delete type=2 #8
+2020/12/04-16:15:48.168 40c7 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0f\x00d\x00i\x00s\x00a\x00b\x00l\x00e\x00V\x00i\x00e\x00w\x00P\x00a\x00g\x00e' @ 98 : 1 .. (end); will stop at (end)

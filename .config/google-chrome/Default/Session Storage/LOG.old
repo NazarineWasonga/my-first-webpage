@@ -1,6 +1,6 @@
-2020/12/02-21:36:24.139 3 Reusing MANIFEST /home/moringaaccess/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2020/12/02-21:36:24.140 3 Recovering log #125
-2020/12/02-21:36:24.145 3 Reusing old log /home/moringaaccess/.config/google-chrome/Default/Session Storage/000125.log 
-2020/12/02-22:41:37.955 2a Level-0 table #129: started
-2020/12/02-22:41:37.961 2a Level-0 table #129: 15156 bytes OK
-2020/12/02-22:41:37.972 2a Delete type=0 #125
+2020/12/04-17:14:15.592 5 Reusing MANIFEST /home/moringaaccess/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2020/12/04-17:14:15.593 5 Recovering log #141
+2020/12/04-17:14:15.594 5 Reusing old log /home/moringaaccess/.config/google-chrome/Default/Session Storage/000141.log 
+2020/12/04-18:48:09.599 27 Level-0 table #145: started
+2020/12/04-18:48:09.604 27 Level-0 table #145: 18649 bytes OK
+2020/12/04-18:48:09.610 27 Delete type=0 #141

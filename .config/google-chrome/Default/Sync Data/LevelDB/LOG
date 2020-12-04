@@ -1,42 +1,6 @@
-2020/12/03-08:49:39.852 949 Reusing MANIFEST /home/moringaaccess/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2020/12/03-08:49:39.852 949 Recovering log #442
-2020/12/03-08:49:39.855 949 Reusing old log /home/moringaaccess/.config/google-chrome/Default/Sync Data/LevelDB/000442.log 
-2020/12/03-09:07:54.012 e48 Level-0 table #446: started
-2020/12/03-09:07:54.020 e48 Level-0 table #446: 97424 bytes OK
-2020/12/03-09:07:54.025 e48 Delete type=0 #442
-2020/12/03-10:05:55.852 1290 Level-0 table #448: started
-2020/12/03-10:05:55.858 1290 Level-0 table #448: 120233 bytes OK
-2020/12/03-10:05:55.863 1290 Delete type=0 #445
-2020/12/03-10:43:24.715 1c78 Level-0 table #450: started
-2020/12/03-10:43:24.724 1c78 Level-0 table #450: 96852 bytes OK
-2020/12/03-10:43:24.729 1c78 Delete type=0 #447
-2020/12/03-10:43:24.729 1c66 Compacting 4@0 + 1@1 files
-2020/12/03-10:43:24.737 1c66 Generated table #451@0: 490 keys, 25675 bytes
-2020/12/03-10:43:24.737 1c66 Compacted 4@0 + 1@1 files => 25675 bytes
-2020/12/03-10:43:24.742 1c66 compacted to: files[ 0 1 1 0 0 0 0 ]
-2020/12/03-10:43:24.742 1c66 Delete type=2 #450
-2020/12/03-10:43:24.742 1c66 Delete type=2 #443
-2020/12/03-10:43:24.742 1c66 Delete type=2 #446
-2020/12/03-10:43:24.742 1c66 Delete type=2 #448
-2020/12/03-10:43:24.742 1c66 Delete type=2 #441
-2020/12/03-10:58:30.443 1e45 Level-0 table #453: started
-2020/12/03-10:58:30.453 1e45 Level-0 table #453: 92671 bytes OK
-2020/12/03-10:58:30.458 1e45 Delete type=0 #449
-2020/12/03-11:49:38.794 2c3b Level-0 table #455: started
-2020/12/03-11:49:38.805 2c3b Level-0 table #455: 95153 bytes OK
-2020/12/03-11:49:38.816 2c3b Delete type=0 #452
-2020/12/03-12:14:53.705 2e78 Level-0 table #457: started
-2020/12/03-12:14:53.712 2e78 Level-0 table #457: 104510 bytes OK
-2020/12/03-12:14:53.716 2e78 Delete type=0 #454
-2020/12/03-12:39:59.221 3445 Level-0 table #459: started
-2020/12/03-12:39:59.231 3445 Level-0 table #459: 94055 bytes OK
-2020/12/03-12:39:59.236 3445 Delete type=0 #456
-2020/12/03-12:39:59.237 34ee Compacting 4@0 + 1@1 files
-2020/12/03-12:39:59.250 34ee Generated table #460@0: 490 keys, 32304 bytes
-2020/12/03-12:39:59.250 34ee Compacted 4@0 + 1@1 files => 32304 bytes
-2020/12/03-12:39:59.254 34ee compacted to: files[ 0 1 1 0 0 0 0 ]
-2020/12/03-12:39:59.255 34ee Delete type=2 #457
-2020/12/03-12:39:59.255 34ee Delete type=2 #451
-2020/12/03-12:39:59.255 34ee Delete type=2 #453
-2020/12/03-12:39:59.255 34ee Delete type=2 #455
-2020/12/03-12:39:59.255 34ee Delete type=2 #459
+2020/12/04-21:14:42.667 951 Reusing MANIFEST /home/moringaaccess/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/12/04-21:14:42.668 951 Recovering log #530
+2020/12/04-21:14:42.668 951 Reusing old log /home/moringaaccess/.config/google-chrome/Default/Sync Data/LevelDB/000530.log 
+2020/12/04-22:01:01.669 1310 Level-0 table #534: started
+2020/12/04-22:01:01.678 1310 Level-0 table #534: 97917 bytes OK
+2020/12/04-22:01:01.684 1310 Delete type=0 #530

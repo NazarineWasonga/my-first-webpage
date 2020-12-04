@@ -967,3 +967,227 @@ cd branching-test-project
 git init
 touch branching-website.html
 code .
+ls
+cd Desktop
+ls
+cd pet-website
+cd ..
+cd pet-website
+cd Pet-website
+cd Desktop
+ls
+cd pet-website
+git status
+ls
+cd ..
+git status
+rm -rf .git
+rm -rf Pet-website
+git clone https://github.com/NazarineWasonga/Pet-website.git
+cd Pet-website
+git branch
+git checkout gh-pages
+ls
+code .
+touch index.html
+git status
+git add .
+git commit -m"added index.html"
+git branch
+git push origin gh-pages
+git push origin 
+git push origin master
+git branch
+git checkout main
+git branch
+git push main
+git push origin main
+clear
+cd ..
+ls
+cd branching-test-project
+git status
+ls
+rm -rf .git
+rm -rf branching-test-project
+git clone https://github.com/NazarineWasonga/branching-test-project.git
+cd branching-test-project
+git branch
+git checkout gh-pages
+ls
+code .
+touch index.html
+git init
+git status
+git add .
+git commit -m"added index.html"
+git branch
+git push origin main
+clear
+cd ..
+cd..
+cd ..
+sudo apt-get update -y
+clear
+cd Desktop
+ls
+cookie-recipe
+cd cookie-recipe
+clear
+cd ..
+git clone https://github.com/NazarineWasonga/cookie-recipe.git
+git add .
+clear
+git checkout -D ft login
+git add .
+git commit m""
+clear
+git clone https://github.com/NazarineWasonga/cookie-recipe.git
+git checkout -D ft login
+git add .
+git commit -m"created branch"
+git add cookie recipe
+git add cookie-recipe
+git commit -m"added branch"
+git commit -m"added branch in cookie-recipe"
+git push 
+git init
+git status
+git add .
+git commit -m"initial commit"
+git remote add origin https://github.com/NazarineWasonga/branching-test-project.git
+git branch -M main
+git push -u origin main
+git status
+git add
+git commit -m"changed styling link"
+git push origin
+git init
+git status
+git add .
+git commit -m"modified indentation"
+git push origin master
+git push master
+git push --set-upstream master master
+git push branch master
+git push master branch
+git push origin master
+git status
+rm -rf.git
+rm -rf .git
+rm -rf cookie-recipe
+git clone https://github.com/NazarineWasonga/cookie-recipe.git
+git status
+git add .
+git add cookie recipe.html
+git add cookie-recipe.html
+git commit -m"modified cookie-recipe.html"
+git push origin master
+git branch
+git checkout gh-pages
+git checkout main
+git checkout gh-pages
+ls
+code .
+git status
+git comit -m"added branch and modified cookie-recipe.html"
+git commit -m"added branch and modified cookie-recipe.html"
+git push gh-pages
+git branch
+clear
+git add .
+clear
+ls
+cd Desktop
+ls
+cd-cookie-recipie
+cd-cookie-recipe
+cd cookie-recipe
+code .
+clear
+ls
+cd ..
+ls
+cd news-article.html
+ls
+code
+code .
+ls
+cd Desktop
+ls
+cd portfolio landing page
+cd 
+cd portfolio landing page
+cd Desktop
+ls
+portfolio-landing-page
+ls
+cd landing-page
+git clone
+clear
+git init
+git add README.md
+git commit -m"first commit"
+git remote add origin https://github.com/NazarineWasonga/portfolio-landing-page-project.git
+git branch -M main
+git push -u origin main
+code .
+git status
+git add cookie recipe.html
+git add cookie-recipe.html
+git add .
+git commit m"modified cookie-recipe.html"
+git commit m"corrected cookie-recipe.html"
+git commit -m"corrected cookie-recipe.html"
+git push github 
+git push origin master
+cd Desktop
+ls
+git config --get remote.origin.url
+git config --get remote.origin.url
+git config --get remote.origin.url
+cd Desktop
+ls
+cd landing page
+cd landing-page
+git status
+ls
+rm -rf.git
+rm -rf .git
+rm -rf landing-page
+git clone https://github.com/NazarineWasonga/portfolio-landing-page-project.git
+cd landing-page
+portfolio-landing-page-project
+git branch
+git checkout gh-pages
+ls
+code .
+touch index.html
+code .
+git status
+git add .
+git commit -m"added images,added index.html,added styles.css"
+git push origin main
+git push origin master
+git push origin gh-pages
+git status
+git status
+ls
+git checkout gh-pages
+cd
+cd project
+cd Desktop
+cd landing-pages
+cd landing-page
+git branch gh-pages
+git branch
+git checkout gh-pages
+git checkout gh-pages portfolio-landing-page-project
+git checkout gh-pages
+ls
+git branch
+git status
+git add portfolio-landing-page-project
+cd
+cd landing-page
+git add portfolio-landing-page-project

@@ -1,23 +1,18 @@
-2020/12/03-08:58:01.532 c27 Reusing MANIFEST /home/moringaaccess/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/03-08:58:01.533 c27 Recovering log #185
-2020/12/03-08:58:01.539 c27 Reusing old log /home/moringaaccess/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/000185.log 
-2020/12/03-08:58:38.087 cdc Level-0 table #189: started
-2020/12/03-08:58:38.105 cdc Level-0 table #189: 487828 bytes OK
-2020/12/03-08:58:38.109 cdc Delete type=0 #185
-2020/12/03-08:58:38.109 cdc Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01,\x00p\x00e\x00r\x00s\x00i\x00s\x00t\x00:\x00s\x00l\x00a\x00c\x00k\x00-\x00c\x00l\x00i\x00e\x00n\x00t\x00-\x00T\x000\x001\x000\x001\x00L\x007\x004\x000\x00P\x004\x00-\x00U\x000\x001\x00D\x00V\x001\x00W\x00S\x00Y\x003\x00W' @ 2800 : 1
-2020/12/03-08:58:38.109 cdc Compacting 2@0 + 1@1 files
-2020/12/03-08:58:38.121 cdc Generated table #190@0: 39 keys, 122401 bytes
-2020/12/03-08:58:38.121 cdc Compacted 2@0 + 1@1 files => 122401 bytes
-2020/12/03-08:58:38.126 cdc compacted to: files[ 0 1 1 0 0 0 0 ]
-2020/12/03-08:58:38.126 cdc Delete type=2 #189
-2020/12/03-08:58:38.126 cdc Delete type=2 #186
-2020/12/03-08:58:38.126 cdc Delete type=2 #183
-2020/12/03-08:58:38.126 cdc Manual compaction at level-0 from '\x00\x01\x01\x02\x01,\x00p\x00e\x00r\x00s\x00i\x00s\x00t\x00:\x00s\x00l\x00a\x00c\x00k\x00-\x00c\x00l\x00i\x00e\x00n\x00t\x00-\x00T\x000\x001\x000\x001\x00L\x007\x004\x000\x00P\x004\x00-\x00U\x000\x001\x00D\x00V\x001\x00W\x00S\x00Y\x003\x00W' @ 2800 : 1 .. (end); will stop at (end)
-2020/12/03-08:58:38.126 cdc Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01,\x00p\x00e\x00r\x00s\x00i\x00s\x00t\x00:\x00s\x00l\x00a\x00c\x00k\x00-\x00c\x00l\x00i\x00e\x00n\x00t\x00-\x00T\x000\x001\x000\x001\x00L\x007\x004\x000\x00P\x004\x00-\x00U\x000\x001\x00D\x00V\x001\x00W\x00S\x00Y\x003\x00W' @ 2824 : 1
-2020/12/03-08:58:38.126 cdc Compacting 1@1 + 1@2 files
-2020/12/03-08:58:38.132 cdc Generated table #191@1: 20 keys, 122270 bytes
-2020/12/03-08:58:38.132 cdc Compacted 1@1 + 1@2 files => 122270 bytes
-2020/12/03-08:58:38.137 cdc compacted to: files[ 0 0 1 0 0 0 0 ]
-2020/12/03-08:58:38.137 cdc Delete type=2 #180
-2020/12/03-08:58:38.137 cdc Delete type=2 #190
-2020/12/03-08:58:38.137 cdc Manual compaction at level-1 from '\x00\x01\x01\x02\x01,\x00p\x00e\x00r\x00s\x00i\x00s\x00t\x00:\x00s\x00l\x00a\x00c\x00k\x00-\x00c\x00l\x00i\x00e\x00n\x00t\x00-\x00T\x000\x001\x000\x001\x00L\x007\x004\x000\x00P\x004\x00-\x00U\x000\x001\x00D\x00V\x001\x00W\x00S\x00Y\x003\x00W' @ 2824 : 1 .. (end); will stop at (end)
+2020/12/04-17:36:58.981 1463 Reusing MANIFEST /home/moringaaccess/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/04-17:36:58.981 1463 Recovering log #209
+2020/12/04-17:36:58.998 1463 Reusing old log /home/moringaaccess/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/000209.log 
+2020/12/04-17:37:03.967 149d Level-0 table #213: started
+2020/12/04-17:37:03.992 149d Level-0 table #213: 1219308 bytes OK
+2020/12/04-17:37:03.997 149d Delete type=0 #209
+2020/12/04-20:07:40.382 149d Level-0 table #215: started
+2020/12/04-20:07:40.411 149d Level-0 table #215: 1234537 bytes OK
+2020/12/04-20:07:40.416 149d Delete type=0 #212
+2020/12/04-20:07:40.417 149d Compacting 4@0 + 1@1 files
+2020/12/04-20:07:40.451 149d Generated table #216@0: 47 keys, 621208 bytes
+2020/12/04-20:07:40.451 149d Compacted 4@0 + 1@1 files => 621208 bytes
+2020/12/04-20:07:40.456 149d compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/12/04-20:07:40.456 149d Delete type=2 #207
+2020/12/04-20:07:40.456 149d Delete type=2 #213
+2020/12/04-20:07:40.456 149d Delete type=2 #210
+2020/12/04-20:07:40.456 149d Delete type=2 #205
+2020/12/04-20:07:40.456 149d Delete type=2 #215

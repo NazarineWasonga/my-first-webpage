@@ -1,0 +1,2 @@
+[2020-12-04 13:30:11.892] [renderer12] [error] Unable to read file '/home/moringaaccess/Desktop/landing-page/styles.css' (Error: Unable to read file '/home/moringaaccess/Desktop/landing-page/styles.css' that is actually a directory): Error: Unable to read file '/home/moringaaccess/Desktop/landing-page/styles.css' (Error: Unable to read file '/home/moringaaccess/Desktop/landing-page/styles.css' that is actually a directory)
+    at e.doReadAsFileStream (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1694:417)

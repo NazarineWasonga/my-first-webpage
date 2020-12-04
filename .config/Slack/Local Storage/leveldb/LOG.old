@@ -1,6 +1,24 @@
-2020/12/02-21:30:47.442 822 Reusing MANIFEST /home/moringaaccess/.config/Slack/Local Storage/leveldb/MANIFEST-000001
-2020/12/02-21:30:47.443 822 Recovering log #262
-2020/12/02-21:30:47.444 822 Reusing old log /home/moringaaccess/.config/Slack/Local Storage/leveldb/000262.log 
-2020/12/02-21:56:47.852 e2e Level-0 table #267: started
-2020/12/02-21:56:47.859 e2e Level-0 table #267: 13643 bytes OK
-2020/12/02-21:56:47.867 e2e Delete type=0 #262
+2020/12/04-17:36:57.882 1463 Reusing MANIFEST /home/moringaaccess/.config/Slack/Local Storage/leveldb/MANIFEST-000001
+2020/12/04-17:36:57.883 1463 Recovering log #290
+2020/12/04-17:36:57.884 1463 Reusing old log /home/moringaaccess/.config/Slack/Local Storage/leveldb/000290.log 
+2020/12/04-17:45:58.549 15b7 Level-0 table #294: started
+2020/12/04-17:45:58.553 15b7 Level-0 table #294: 12646 bytes OK
+2020/12/04-17:45:58.562 15b7 Delete type=0 #290
+2020/12/04-19:32:58.555 15b7 Level-0 table #296: started
+2020/12/04-19:32:58.563 15b7 Level-0 table #296: 13864 bytes OK
+2020/12/04-19:32:58.568 15b7 Delete type=0 #293
+2020/12/04-19:32:58.568 15b7 Compacting 4@0 + 1@1 files
+2020/12/04-19:32:58.573 15b7 Generated table #297@0: 17 keys, 4012 bytes
+2020/12/04-19:32:58.573 15b7 Compacted 4@0 + 1@1 files => 4012 bytes
+2020/12/04-19:32:58.578 15b7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/12/04-19:32:58.578 15b7 Delete type=2 #286
+2020/12/04-19:32:58.578 15b7 Delete type=2 #288
+2020/12/04-19:32:58.578 15b7 Delete type=2 #296
+2020/12/04-19:32:58.578 15b7 Delete type=2 #294
+2020/12/04-19:32:58.578 15b7 Delete type=2 #291
+2020/12/04-20:17:58.554 15b7 Level-0 table #299: started
+2020/12/04-20:17:58.559 15b7 Level-0 table #299: 15954 bytes OK
+2020/12/04-20:17:58.564 15b7 Delete type=0 #295
+2020/12/04-20:54:58.549 15b7 Level-0 table #301: started
+2020/12/04-20:54:58.557 15b7 Level-0 table #301: 14799 bytes OK
+2020/12/04-20:54:58.566 15b7 Delete type=0 #298

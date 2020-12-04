@@ -1,0 +1,5 @@
+2020/12/04-20:42:18.414 3a5f Reusing MANIFEST /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_youtube.googleapis.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/04-20:42:20.438 37db Level-0 table #5: started
+2020/12/04-20:42:20.445 37db Level-0 table #5: 417 bytes OK
+2020/12/04-20:42:20.456 37db Delete type=0 #3
+2020/12/04-20:42:20.457 37db Manual compaction at level-0 from (begin) .. (end); will stop at (end)

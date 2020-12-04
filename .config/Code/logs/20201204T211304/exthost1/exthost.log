@@ -1,0 +1,103 @@
+[2020-12-04 21:13:07.256] [exthost] [info] extension host started
+[2020-12-04 21:13:07.351] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onLanguage:html"}
+[2020-12-04 21:13:07.351] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-12-04 21:13:07.383] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2020-12-04 21:13:07.383] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2020-12-04 21:13:07.426] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-12-04 21:13:07.426] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-12-04 21:13:07.429] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-12-04 21:13:07.430] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-12-04 21:13:07.488] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-12-04 21:13:07.488] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-12-04 21:13:07.500] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-12-04 21:13:07.500] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-12-04 21:13:07.505] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":true,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"*"}
+[2020-12-04 21:13:07.505] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-12-04 21:13:07.516] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-12-04 21:13:07.516] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-12-04 21:13:07.518] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2020-12-04 21:13:07.518] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/moringaaccess/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2020-12-04 21:13:08.309] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-12-04 21:13:08.309] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2020-12-04 21:13:08.375] [exthost] [info] eager extensions activated
+[2020-12-04 21:13:09.199] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/moringaaccess/Desktop/landing-page/portfolio-landing-page-project/README.md' is in submodule 'Desktop/landing-page/portfolio-landing-page-project'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2020-12-04 21:13:09.199] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/moringaaccess/Desktop/landing-page/portfolio-landing-page-project/README.md' is in submodule 'Desktop/landing-page/portfolio-landing-page-project'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2020-12-04 21:13:09.199] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/moringaaccess/Desktop/landing-page/portfolio-landing-page-project/README.md' is in submodule 'Desktop/landing-page/portfolio-landing-page-project'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2020-12-04 21:13:09.199] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/moringaaccess/Desktop/landing-page/portfolio-landing-page-project/README.md' is in submodule 'Desktop/landing-page/portfolio-landing-page-project'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2020-12-04 21:13:09.199] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/moringaaccess/Desktop/landing-page/portfolio-landing-page-project/README.md' is in submodule 'Desktop/landing-page/portfolio-landing-page-project'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2020-12-04 21:13:09.199] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/moringaaccess/Desktop/landing-page/portfolio-landing-page-project/README.md' is in submodule 'Desktop/landing-page/portfolio-landing-page-project'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2020-12-04 21:13:09.199] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/moringaaccess/Desktop/landing-page/portfolio-landing-page-project/README.md' is in submodule 'Desktop/landing-page/portfolio-landing-page-project'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2020-12-04 21:44:54.377] [exthost] [error] [vscode.html-language-features] provider FAILED
+[2020-12-04 21:44:54.380] [exthost] [error] Error: Receving unknown insert replace range.
+	at m (/usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain.js:1:192135)
+	at /usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain.js:1:197008
+	at Object.asCompletionItem (/usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain.js:1:197122)
+	at o (/usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain.js:1:22454)
+	at Object.n.resolveCompletionItem (/usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain.js:1:22665)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:688:588
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:136
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:108)
+	at U.resolveCompletionItem (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:688:559)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:704:618
+	at e._withAdapter (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:695:632)
+	at e.$resolveCompletionItem (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:704:596)
+	at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:804:1013)
+	at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:804:705)
+	at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:803:293)
+	at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:802:156)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:800:416
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:274)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:975:649
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:274)
+	at t.PersistentProtocol._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:243:629)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:240:824
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at p.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:236:737)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:236:89
+	at Socket.t (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:245:185)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-12-04 21:46:14.742] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"extensionId":{"value":"vscode.css-language-features","_lower":"vscode.css-language-features"},"activationEvent":"onLanguage:css"}
+[2020-12-04 21:46:14.743] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/css-language-features/client/dist/node/cssClientMain
+[2020-12-04 22:31:38.498] [exthost] [error] [vscode.html-language-features] provider FAILED
+[2020-12-04 22:31:38.499] [exthost] [error] Error: Receving unknown insert replace range.
+	at m (/usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain.js:1:192135)
+	at /usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain.js:1:197008
+	at Object.asCompletionItem (/usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain.js:1:197122)
+	at o (/usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain.js:1:22454)
+	at Object.n.resolveCompletionItem (/usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain.js:1:22665)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:688:588
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:136
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:108)
+	at U.resolveCompletionItem (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:688:559)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:704:618
+	at e._withAdapter (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:695:632)
+	at e.$resolveCompletionItem (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:704:596)
+	at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:804:1013)
+	at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:804:705)
+	at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:803:293)
+	at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:802:156)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:800:416
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:274)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:975:649
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:274)
+	at t.PersistentProtocol._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:243:629)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:240:824
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at p.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:236:737)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:236:89
+	at Socket.t (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:245:185)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)

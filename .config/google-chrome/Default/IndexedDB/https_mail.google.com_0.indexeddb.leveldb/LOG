@@ -1,3 +1,6 @@
-2020/12/03-08:49:49.186 949 Reusing MANIFEST /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/03-08:49:49.186 949 Recovering log #163
-2020/12/03-08:49:49.199 949 Reusing old log /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000163.log 
+2020/12/04-21:14:50.335 95f Reusing MANIFEST /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/04-21:14:50.335 95f Recovering log #172
+2020/12/04-21:14:50.352 95f Reusing old log /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000172.log 
+2020/12/04-21:15:07.969 964 Level-0 table #177: started
+2020/12/04-21:15:08.008 964 Level-0 table #177: 1833016 bytes OK
+2020/12/04-21:15:08.020 964 Delete type=0 #172

@@ -1,0 +1,9 @@
+[2020-12-03 22:50:32.731] [renderer9] [error] Cannot read property 'getCell' of undefined: TypeError: Cannot read property 'getCell' of undefined
+    at Object.t.convertLinkRangeToBuffer (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3372:362)
+    at e._provideLinks (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4291:723)
+    at e.provideLinks (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3371:508)
+    at /usr/share/code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:242351
+    at Array.forEach (<anonymous>)
+    at t._askForLink (/usr/share/code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:242213)
+    at t._onHover (/usr/share/code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:241908)
+    at t._onMouseMove (/usr/share/code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:241768)

@@ -921,7 +921,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/moringaaccess/Pictures/Screenshot%20from%202020-11-20%2010-41-03.png" added="2020-11-20T07:41:04Z" modified="2020-11-20T20:49:26Z" visited="2020-11-20T07:41:04Z">
+  <bookmark href="file:///home/moringaaccess/Pictures/Screenshot%20from%202020-11-20%2010-41-03.png" added="2020-11-20T07:41:04Z" modified="2020-12-03T22:45:24Z" visited="2020-11-20T07:41:04Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
@@ -930,7 +930,7 @@
         </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-11-20T07:41:04Z" count="1"/>
-          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-11-20T20:49:26Z" count="10"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-12-03T22:45:24Z" count="11"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -1521,6 +1521,208 @@
         </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-12-02T16:05:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/moringaaccess/Desktop/news-article.html/news.jpeg" added="2020-12-03T15:59:24Z" modified="2020-12-03T15:59:24Z" visited="2020-12-03T15:59:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2020-12-03T15:59:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/moringaaccess/Desktop/news-article.html/image.jpeg" added="2020-12-03T16:10:28Z" modified="2020-12-03T16:10:28Z" visited="2020-12-03T16:10:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2020-12-03T16:10:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/moringaaccess/Desktop/Nazarine.jpg" added="2020-12-03T22:07:19Z" modified="2020-12-03T22:07:19Z" visited="2020-12-03T22:07:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2020-12-03T22:07:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/moringaaccess/Desktop/landing-page/Nazarine.jpg" added="2020-12-03T22:13:24Z" modified="2020-12-03T22:13:24Z" visited="2020-12-03T22:13:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2020-12-03T22:13:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/moringaaccess/Pictures/Screenshot%20from%202020-12-04%2001-57-28.png" added="2020-12-03T22:57:28Z" modified="2020-12-04T11:49:18Z" visited="2020-12-03T22:57:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-12-03T22:57:28Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-12-04T11:49:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/moringaaccess/Desktop/landing-page/Pet.html" added="2020-12-04T10:27:08Z" modified="2020-12-04T10:27:08Z" visited="2020-12-04T10:27:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2020-12-04T10:27:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/moringaaccess/Pictures/Screenshot%20from%202020-12-04%2014-41-51.png" added="2020-12-04T11:41:51Z" modified="2020-12-04T11:41:51Z" visited="2020-12-04T11:41:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-12-04T11:41:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/moringaaccess/Pictures/Screenshot%20from%202020-12-04%2014-41-58.png" added="2020-12-04T11:41:58Z" modified="2020-12-04T11:49:27Z" visited="2020-12-04T11:41:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-12-04T11:41:58Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-12-04T11:49:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/moringaaccess/Pictures/Screenshot%20from%202020-12-04%2014-42-05.png" added="2020-12-04T11:42:05Z" modified="2020-12-04T11:57:06Z" visited="2020-12-04T11:42:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-12-04T11:42:05Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-12-04T11:57:06Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/moringaaccess/Pictures/Screenshot%20from%202020-12-04%2014-42-10.png" added="2020-12-04T11:42:10Z" modified="2020-12-04T11:42:10Z" visited="2020-12-04T11:42:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-12-04T11:42:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/moringaaccess/Pictures/Screenshot%20from%202020-12-04%2014-42-15.png" added="2020-12-04T11:42:15Z" modified="2020-12-04T11:42:15Z" visited="2020-12-04T11:42:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-12-04T11:42:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/moringaaccess/Pictures/Screenshot%20from%202020-12-04%2014-42-19.png" added="2020-12-04T11:42:19Z" modified="2020-12-04T11:42:19Z" visited="2020-12-04T11:42:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-12-04T11:42:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/moringaaccess/Pictures/Screenshot%20from%202020-12-04%2014-42-36.png" added="2020-12-04T11:42:36Z" modified="2020-12-04T11:42:36Z" visited="2020-12-04T11:42:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-12-04T11:42:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/moringaaccess/Pictures/Screenshot%20from%202020-12-04%2014-42-58.png" added="2020-12-04T11:42:59Z" modified="2020-12-04T11:42:59Z" visited="2020-12-04T11:42:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-12-04T11:42:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/moringaaccess/Pictures/Screenshot%20from%202020-12-04%2014-43-04.png" added="2020-12-04T11:43:04Z" modified="2020-12-04T11:43:04Z" visited="2020-12-04T11:43:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-12-04T11:43:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/moringaaccess/Pictures/Screenshot%20from%202020-12-04%2014-43-25.png" added="2020-12-04T11:43:26Z" modified="2020-12-04T11:43:26Z" visited="2020-12-04T11:43:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-12-04T11:43:26Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/moringaaccess/Pictures/Screenshot%20from%202020-12-04%2014-43-32.png" added="2020-12-04T11:43:32Z" modified="2020-12-04T11:43:32Z" visited="2020-12-04T11:43:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-12-04T11:43:32Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/moringaaccess/Pictures/Screenshot%20from%202020-12-04%2014-43-35.png" added="2020-12-04T11:43:35Z" modified="2020-12-04T11:43:35Z" visited="2020-12-04T11:43:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-12-04T11:43:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/moringaaccess/Pictures/Cyppy.html" added="2020-12-04T17:47:18Z" modified="2020-12-04T17:47:18Z" visited="2020-12-04T17:47:19.056364Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2020-12-04T17:47:18Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

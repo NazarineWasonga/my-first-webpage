@@ -1,0 +1,39 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/moringaaccess
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git show :Desktop/Nazarine/about.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/Nazarine/about.html
+> git cat-file -s f70697ac182a40369ac75b8f989445470e98865f
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/moringaaccess/Desktop/Nazarine/about.html
+> git cat-file -s f70697ac182a40369ac75b8f989445470e98865f
+> git show :Desktop/Nazarine/about.html
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+error: The last gc run reported the following. Please correct the root cause
+and remove .git/gc.log.
+Automatic cleanup will not be performed until the file is removed.
+
+warning: There are too many unreachable loose objects; run 'git prune' to remove them.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/Nazarine/about.html
+> git cat-file -s f70697ac182a40369ac75b8f989445470e98865f
+> git show :Desktop/Nazarine/about.html

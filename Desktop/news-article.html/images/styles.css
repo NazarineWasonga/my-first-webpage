@@ -1,0 +1,19 @@
+.introduction{
+    font-size: medium;
+    background-color: rgb(105, 212, 231);
+}
+h2.introduction{
+    font-style: italic;
+    background-color: rgb(94, 102, 102);
+    color: darkcyan;
+    font-size: 12px;
+}
+p.introduction{
+    font: italic;
+    background-color:rgb(29, 2, 2) ;
+    color: red;
+    font-size: medium;
+}
+img.introduction{
+background-color: red;
+}

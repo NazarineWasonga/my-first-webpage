@@ -1,10 +1,10 @@
 [directory]
 nautilus-icon-view-keep-aligned=true
 nautilus-desktop-icon-size=48
-nautilus-icon-view-layout-timestamp=1606974250
+nautilus-icon-view-layout-timestamp=1607105574
 
 [trash]
-nautilus-icon-position-timestamp=1606974250
+nautilus-icon-position-timestamp=1607105574
 nautilus-icon-position=56,26
 icon-scale=1
 
@@ -12,3 +12,8 @@ icon-scale=1
 nautilus-icon-position=56,446
 icon-scale=1
 nautilus-icon-position-timestamp=1605544350
+
+[SAMSUNG Android.volume]
+nautilus-icon-position=368,846
+icon-scale=1
+nautilus-icon-position-timestamp=1607030569

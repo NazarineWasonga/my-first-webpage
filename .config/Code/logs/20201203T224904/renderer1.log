@@ -1,0 +1,3 @@
+[2020-12-03 22:49:34.929] [renderer1] [warning] Workbench did not finish loading in 10 seconds, that might be a problem that should be reported.
+[2020-12-03 22:49:42.492] [renderer1] [error] Error: [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-12-03 22:49:42.504] [renderer1] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)

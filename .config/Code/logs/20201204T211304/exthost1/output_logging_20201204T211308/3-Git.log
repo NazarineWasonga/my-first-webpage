@@ -1,0 +1,496 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/moringaaccess
+> git fetch
+> git status -z -u
+fatal: unable to access 'https://github.com/NazarineWasonga/my-first-webpage.git/': Could not resolve host: github.com
+> git show :Desktop/landing-page/index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/index.html
+> git check-ignore -v -z --stdin
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/index.html
+> git show :Desktop/landing-page/index.html
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/index.html
+> git show :Desktop/landing-page/index.html
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+error: The last gc run reported the following. Please correct the root cause
+and remove .git/gc.log.
+Automatic cleanup will not be performed until the file is removed.
+
+warning: There are too many unreachable loose objects; run 'git prune' to remove them.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/index.html
+> git show :Desktop/landing-page/index.html
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/moringaaccess/Desktop/landing-page/index.html
+> git add -A -- .
+> git push -u origin gh-pages
+To https://github.com/NazarineWasonga/my-first-webpage.git
+   ad39b8bb..d260b928  gh-pages -> gh-pages
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/index.html
+> git show :Desktop/landing-page/index.html
+fatal: confused by unstable object source data for 10f494a8b83c04bd8c273142ae02a65e886eadbb
+> git fetch
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+error: The last gc run reported the following. Please correct the root cause
+and remove .git/gc.log.
+Automatic cleanup will not be performed until the file is removed.
+
+warning: There are too many unreachable loose objects; run 'git prune' to remove them.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/index.html
+> git show :Desktop/landing-page/index.html
+> git show :Desktop/landing-page/styles.css
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/styles.css
+> git fetch
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/styles.css
+> git show :Desktop/landing-page/styles.css
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+error: The last gc run reported the following. Please correct the root cause
+and remove .git/gc.log.
+Automatic cleanup will not be performed until the file is removed.
+
+warning: There are too many unreachable loose objects; run 'git prune' to remove them.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/styles.css
+> git show :Desktop/landing-page/styles.css
+> git show :Desktop/landing-page/index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/index.html
+> git fetch
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/index.html
+> git show :Desktop/landing-page/index.html
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+error: The last gc run reported the following. Please correct the root cause
+and remove .git/gc.log.
+Automatic cleanup will not be performed until the file is removed.
+
+warning: There are too many unreachable loose objects; run 'git prune' to remove them.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/index.html
+> git show :Desktop/landing-page/index.html
+> git show :Desktop/landing-page/portfolio-landing-page-project/IP project
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/portfolio-landing-page-project/IP project
+> git show :Desktop/landing-page/index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/index.html
+> git show :Desktop/landing-page/styles.css
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/styles.css
+> git show :Desktop/landing-page/index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/index.html
+> git show :Desktop/landing-page/styles.css
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/styles.css
+> git show :Desktop/landing-page/index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/index.html
+> git show :Desktop/landing-page/styles.css
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/styles.css
+> git show :Desktop/landing-page/index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/index.html
+> git show :Desktop/landing-page/styles.css
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/styles.css
+> git show :Desktop/landing-page/index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/index.html
+> git fetch
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/index.html
+> git show :Desktop/landing-page/index.html
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+error: The last gc run reported the following. Please correct the root cause
+and remove .git/gc.log.
+Automatic cleanup will not be performed until the file is removed.
+
+warning: There are too many unreachable loose objects; run 'git prune' to remove them.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Desktop/landing-page/styles.css
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/styles.css
+> git fetch
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/styles.css
+> git show :Desktop/landing-page/styles.css
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+error: The last gc run reported the following. Please correct the root cause
+and remove .git/gc.log.
+Automatic cleanup will not be performed until the file is removed.
+
+warning: There are too many unreachable loose objects; run 'git prune' to remove them.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/styles.css
+> git show :Desktop/landing-page/styles.css
+> git show :Desktop/landing-page/index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/index.html
+> git show :Desktop/landing-page/styles.css
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/styles.css
+> git show :Desktop/landing-page/index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/index.html
+> git fetch
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/styles.css
+> git show :Desktop/landing-page/index.html
+> git show :Desktop/landing-page/styles.css
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+error: The last gc run reported the following. Please correct the root cause
+and remove .git/gc.log.
+Automatic cleanup will not be performed until the file is removed.
+
+warning: There are too many unreachable loose objects; run 'git prune' to remove them.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/styles.css
+> git show :Desktop/landing-page/index.html
+> git show :Desktop/landing-page/styles.css
+> git fetch
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/styles.css
+> git show :Desktop/landing-page/index.html
+> git show :Desktop/landing-page/styles.css
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+error: The last gc run reported the following. Please correct the root cause
+and remove .git/gc.log.
+Automatic cleanup will not be performed until the file is removed.
+
+warning: There are too many unreachable loose objects; run 'git prune' to remove them.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/styles.css
+> git show :Desktop/landing-page/index.html
+> git show :Desktop/landing-page/styles.css
+> git fetch
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/styles.css
+> git show :Desktop/landing-page/index.html
+> git show :Desktop/landing-page/styles.css
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+error: The last gc run reported the following. Please correct the root cause
+and remove .git/gc.log.
+Automatic cleanup will not be performed until the file is removed.
+
+warning: There are too many unreachable loose objects; run 'git prune' to remove them.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/styles.css
+> git show :Desktop/landing-page/index.html
+> git show :Desktop/landing-page/styles.css
+> git fetch
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/styles.css
+> git show :Desktop/landing-page/index.html
+> git show :Desktop/landing-page/styles.css
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+error: The last gc run reported the following. Please correct the root cause
+and remove .git/gc.log.
+Automatic cleanup will not be performed until the file is removed.
+
+warning: There are too many unreachable loose objects; run 'git prune' to remove them.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/styles.css
+> git show :Desktop/landing-page/index.html
+> git show :Desktop/landing-page/styles.css
+> git fetch
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/styles.css
+> git show :Desktop/landing-page/index.html
+> git show :Desktop/landing-page/styles.css
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+error: The last gc run reported the following. Please correct the root cause
+and remove .git/gc.log.
+Automatic cleanup will not be performed until the file is removed.
+
+warning: There are too many unreachable loose objects; run 'git prune' to remove them.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/styles.css
+> git show :Desktop/landing-page/index.html
+> git show :Desktop/landing-page/styles.css
+> git fetch
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+error: The last gc run reported the following. Please correct the root cause
+and remove .git/gc.log.
+Automatic cleanup will not be performed until the file is removed.
+
+warning: There are too many unreachable loose objects; run 'git prune' to remove them.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/styles.css
+> git show :Desktop/landing-page/index.html
+> git show :Desktop/landing-page/styles.css
+> git fetch
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/styles.css
+> git show :Desktop/landing-page/index.html
+> git show :Desktop/landing-page/styles.css
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+error: The last gc run reported the following. Please correct the root cause
+and remove .git/gc.log.
+Automatic cleanup will not be performed until the file is removed.
+
+warning: There are too many unreachable loose objects; run 'git prune' to remove them.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/styles.css
+> git show :Desktop/landing-page/index.html
+> git show :Desktop/landing-page/styles.css
+> git fetch
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/styles.css
+> git show :Desktop/landing-page/index.html
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+error: The last gc run reported the following. Please correct the root cause
+and remove .git/gc.log.
+Automatic cleanup will not be performed until the file is removed.
+
+warning: There are too many unreachable loose objects; run 'git prune' to remove them.
+> git status -z -u
+> git show :Desktop/landing-page/styles.css
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/styles.css
+> git show :Desktop/landing-page/index.html
+> git show :Desktop/landing-page/styles.css
+> git fetch
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/styles.css
+> git show :Desktop/landing-page/index.html
+> git show :Desktop/landing-page/styles.css
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+error: The last gc run reported the following. Please correct the root cause
+and remove .git/gc.log.
+Automatic cleanup will not be performed until the file is removed.
+
+warning: There are too many unreachable loose objects; run 'git prune' to remove them.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/styles.css
+> git show :Desktop/landing-page/index.html
+> git show :Desktop/landing-page/styles.css
+> git fetch
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/styles.css
+> git show :Desktop/landing-page/index.html
+> git show :Desktop/landing-page/styles.css
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+error: The last gc run reported the following. Please correct the root cause
+and remove .git/gc.log.
+Automatic cleanup will not be performed until the file is removed.
+
+warning: There are too many unreachable loose objects; run 'git prune' to remove them.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/styles.css
+> git show :Desktop/landing-page/index.html
+> git show :Desktop/landing-page/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/moringaaccess/Desktop/landing-page/styles.css
+> git show :Desktop/landing-page/index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/index.html
+> git show :Desktop/landing-page/styles.css
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/styles.css
+> git fetch
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/styles.css
+> git show :Desktop/landing-page/styles.css
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+error: The last gc run reported the following. Please correct the root cause
+and remove .git/gc.log.
+Automatic cleanup will not be performed until the file is removed.
+
+warning: There are too many unreachable loose objects; run 'git prune' to remove them.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/styles.css
+> git show :Desktop/landing-page/styles.css
+> git show :Desktop/landing-page/index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/index.html
+> git show :Desktop/landing-page/index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/index.html
+> git show :Desktop/landing-page/css
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/css
+> git check-ignore -v -z --stdin
+> git show :Desktop/landing-page/index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/index.html
+> git show :Desktop/landing-page/css
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/css
+> git show :Desktop/landing-page/index.html
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/index.html
+> git fetch
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/index.html
+> git show :Desktop/landing-page/index.html
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+error: The last gc run reported the following. Please correct the root cause
+and remove .git/gc.log.
+Automatic cleanup will not be performed until the file is removed.
+
+warning: There are too many unreachable loose objects; run 'git prune' to remove them.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/moringaaccess/Desktop/landing-page/index.html
+> git show :Desktop/landing-page/index.html
+> git fetch
+> git add -A -- .
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+error: The last gc run reported the following. Please correct the root cause
+and remove .git/gc.log.
+Automatic cleanup will not be performed until the file is removed.
+
+warning: There are too many unreachable loose objects; run 'git prune' to remove them.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template

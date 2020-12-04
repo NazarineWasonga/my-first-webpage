@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<!-- saved from url=(0032)http://127.0.0.1:5501/Index.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pet-Website</title>
+    <link rel="stylesheet" href="./Pet_files/styles.css">
+</head>
+<body><header>
+    <!-- Navigation bar-->
+    <nav class="navcontainer">
+        <ul class="navitems">
+            <li>About me</li>
+            <li>A blog</li>
+            <li>Contact page</li>
+        </ul>
+    </nav>
+    <!--Navigation bar-->
+</header>
+
+    <h1>My favorite pet</h1>
+    <h2>Tom</h2>
+    <p>Tom is the name of my pet it is a dog.</p>
+    <p>Here are some <strong>description</strong> about the dog</p>
+    <ol>
+        <li>eager-to-please.</li>
+        <li>easy-to-train.</li>
+        <li>energetic.</li>
+        <li>entertaining.</li>
+        <li>faithful.</li>
+        <li>family-friendly.</li>
+        <li>fast.</li>
+    </ol>
+    <p>Here are some <em>characteristic</em> of my pet</p>
+    <ul>
+        <li>Loyal</li>
+        <li>Unconditional Love.</li>
+        <li>Internal and external satisfaction.</li>
+        <li>Simple mindset.</li>
+        <li>Being Selfless</li>
+    </ul>
+    <p>Check out <a href="http://vanillapuppyhome.com/">some of the breeds</a>. It contain some of the breed in the market</p>
+ <img src="./Pet_files/dog.jpeg" alt="Photo of a dog">
+<!-- Code injected by live-server -->
+<script type="text/javascript">
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+
+
+
+
+
+
+
+</body></html>

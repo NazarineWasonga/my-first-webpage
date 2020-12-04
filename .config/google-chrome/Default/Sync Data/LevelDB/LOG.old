@@ -1,24 +1,27 @@
-2020/12/02-21:36:20.428 90b Reusing MANIFEST /home/moringaaccess/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2020/12/02-21:36:20.428 90b Recovering log #432
-2020/12/02-21:36:20.431 90b Reusing old log /home/moringaaccess/.config/google-chrome/Default/Sync Data/LevelDB/000432.log 
-2020/12/02-22:00:07.324 e4f Level-0 table #436: started
-2020/12/02-22:00:07.331 e4f Level-0 table #436: 90296 bytes OK
-2020/12/02-22:00:07.337 e4f Delete type=0 #432
-2020/12/02-23:01:34.116 1bc0 Level-0 table #438: started
-2020/12/02-23:01:34.124 1bc0 Level-0 table #438: 88214 bytes OK
-2020/12/02-23:01:34.130 1bc0 Delete type=0 #435
-2020/12/02-23:44:11.014 2505 Level-0 table #440: started
-2020/12/02-23:44:11.024 2505 Level-0 table #440: 87447 bytes OK
-2020/12/02-23:44:11.029 2505 Delete type=0 #437
-2020/12/02-23:44:11.029 22da Compacting 4@0 + 1@1 files
-2020/12/02-23:44:11.042 22da Generated table #441@0: 486 keys, 23392 bytes
-2020/12/02-23:44:11.042 22da Compacted 4@0 + 1@1 files => 23392 bytes
-2020/12/02-23:44:11.046 22da compacted to: files[ 0 1 1 0 0 0 0 ]
-2020/12/02-23:44:11.047 22da Delete type=2 #433
-2020/12/02-23:44:11.047 22da Delete type=2 #431
-2020/12/02-23:44:11.047 22da Delete type=2 #438
-2020/12/02-23:44:11.047 22da Delete type=2 #436
-2020/12/02-23:44:11.047 22da Delete type=2 #440
-2020/12/03-00:59:23.281 349d Level-0 table #443: started
-2020/12/03-00:59:23.287 349d Level-0 table #443: 83094 bytes OK
-2020/12/03-00:59:23.295 349d Delete type=0 #439
+2020/12/04-17:14:11.563 7ca Reusing MANIFEST /home/moringaaccess/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/12/04-17:14:11.564 7ca Recovering log #518
+2020/12/04-17:14:11.567 7ca Reusing old log /home/moringaaccess/.config/google-chrome/Default/Sync Data/LevelDB/000518.log 
+2020/12/04-18:02:28.588 17b4 Level-0 table #522: started
+2020/12/04-18:02:28.598 17b4 Level-0 table #522: 103628 bytes OK
+2020/12/04-18:02:28.604 17b4 Delete type=0 #518
+2020/12/04-18:56:19.107 262d Level-0 table #524: started
+2020/12/04-18:56:19.114 262d Level-0 table #524: 89811 bytes OK
+2020/12/04-18:56:19.118 262d Delete type=0 #521
+2020/12/04-19:45:40.010 30ce Level-0 table #526: started
+2020/12/04-19:45:40.018 30ce Level-0 table #526: 94696 bytes OK
+2020/12/04-19:45:40.028 30ce Delete type=0 #523
+2020/12/04-19:45:40.028 312b Compacting 4@0 + 1@1 files
+2020/12/04-19:45:40.040 312b Generated table #527@0: 498 keys, 32374 bytes
+2020/12/04-19:45:40.040 312b Compacted 4@0 + 1@1 files => 32374 bytes
+2020/12/04-19:45:40.045 312b compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/12/04-19:45:40.045 312b Delete type=2 #524
+2020/12/04-19:45:40.045 312b Delete type=2 #522
+2020/12/04-19:45:40.046 312b Delete type=2 #526
+2020/12/04-19:45:40.046 312b Delete type=2 #517
+2020/12/04-19:45:40.046 312b Delete type=2 #519
+2020/12/04-20:01:39.379 33ff Level-0 table #529: started
+2020/12/04-20:01:39.388 33ff Level-0 table #529: 125035 bytes OK
+2020/12/04-20:01:39.393 33ff Delete type=0 #525
+2020/12/04-20:57:55.908 3d55 Level-0 table #531: started
+2020/12/04-20:57:55.922 3d55 Level-0 table #531: 93479 bytes OK
+2020/12/04-20:57:55.932 3d55 Delete type=0 #528

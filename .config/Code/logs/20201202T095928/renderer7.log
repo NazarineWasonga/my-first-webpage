@@ -1,8 +1,0 @@
-[2020-12-02 15:33:49.502] [renderer7] [error] spawn git ENOENT: Error: spawn git ENOENT
-	at Process.ChildProcess._handle.onexit (internal/child_process.js:264:19)
-	at onErrorNT (internal/child_process.js:456:16)
-	at processTicksAndRejections (internal/process/task_queues.js:77:11)
-[2020-12-02 15:43:41.365] [renderer7] [error] ENOENT: no such file or directory, scandir '/home/moringaaccess/Desktop/my-first-website': Error: ENOENT: no such file or directory, scandir '/home/moringaaccess/Desktop/my-first-website'
-[2020-12-02 19:04:24.043] [renderer7] [error] Unable to read file '/home/moringaaccess/Desktop/my-first-website/Images/favorite-things.html' (EntryNotADirectory (FileSystemError): Error: ENOTDIR: not a directory, stat '/home/moringaaccess/Desktop/my-first-website/Images/favorite-things.html'): Error: Unable to read file '/home/moringaaccess/Desktop/my-first-website/Images/favorite-things.html' (EntryNotADirectory (FileSystemError): Error: ENOTDIR: not a directory, stat '/home/moringaaccess/Desktop/my-first-website/Images/favorite-things.html')
-    at e.doReadAsFileStream (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1694:417)
-[2020-12-02 19:06:53.265] [renderer7] [error] ENOTDIR: not a directory, scandir '/home/moringaaccess/Desktop/my-first-website': Error: ENOTDIR: not a directory, scandir '/home/moringaaccess/Desktop/my-first-website'

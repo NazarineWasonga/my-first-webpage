@@ -1,14 +1,16 @@
-2020/12/02-21:36:29.476 91c Reusing MANIFEST /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/02-21:36:29.477 91c Recovering log #126
-2020/12/02-21:36:29.599 91c Reusing old log /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000126.log 
-2020/12/02-21:57:10.032 d20 Level-0 table #132: started
-2020/12/02-21:57:10.067 d20 Level-0 table #132: 1273798 bytes OK
-2020/12/02-21:57:10.073 d20 Delete type=0 #126
-2020/12/02-21:57:13.039 e0e Compacting 1@1 + 2@2 files
-2020/12/02-21:57:13.100 e0e Generated table #133@1: 52370 keys, 2212186 bytes
-2020/12/02-21:57:13.154 e0e Generated table #134@1: 38034 keys, 2208544 bytes
-2020/12/02-21:57:13.154 e0e Compacted 1@1 + 2@2 files => 4420730 bytes
-2020/12/02-21:57:13.159 e0e compacted to: files[ 0 0 2 0 0 0 0 ]
-2020/12/02-21:57:13.159 e0e Delete type=2 #132
-2020/12/02-21:57:13.159 e0e Delete type=2 #128
-2020/12/02-21:57:13.159 e0e Delete type=2 #129
+2020/12/04-08:58:08.712 90a Reusing MANIFEST /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/04-08:58:08.712 90a Recovering log #147
+2020/12/04-08:58:08.722 90a Reusing old log /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000147.log 
+2020/12/04-11:21:30.993 231a Level-0 table #154: started
+2020/12/04-11:21:31.033 231a Level-0 table #154: 1234248 bytes OK
+2020/12/04-11:21:31.039 231a Delete type=0 #147
+2020/12/04-11:22:09.107 2406 Compacting 1@1 + 3@2 files
+2020/12/04-11:22:09.165 2406 Generated table #155@1: 46486 keys, 2185512 bytes
+2020/12/04-11:22:09.242 2406 Generated table #156@1: 46631 keys, 2270113 bytes
+2020/12/04-11:22:09.305 2406 Generated table #157@1: 38311 keys, 1865531 bytes
+2020/12/04-11:22:09.305 2406 Compacted 1@1 + 3@2 files => 6321156 bytes
+2020/12/04-11:22:09.313 2406 compacted to: files[ 0 0 3 0 0 0 0 ]
+2020/12/04-11:22:09.313 2406 Delete type=2 #150
+2020/12/04-11:22:09.313 2406 Delete type=2 #149
+2020/12/04-11:22:09.313 2406 Delete type=2 #154
+2020/12/04-11:22:09.313 2406 Delete type=2 #151

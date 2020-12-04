@@ -2,16 +2,19 @@
     "telemetry.machineId": "95fc7a999290330e94c06b40cc96a7d46cfabd2b2eb59a3f334dab9a62aecb09",
     "openedPathsList": {
         "workspaces3": [
-            "file:///home/moringaaccess/Desktop/branching-test-project/branching-test-project",
-            "file:///home/moringaaccess/Desktop/Pet-website",
-            "file:///home/moringaaccess/Desktop/pet-website",
+            "file:///home/moringaaccess/Desktop/landing-page",
             "file:///home/moringaaccess",
+            "file:///home/moringaaccess/Desktop/pet-website",
             "file:///home/moringaaccess/Desktop/E-learning",
             "file:///home/moringaaccess/barefootproject",
             "file:///home/moringaaccess/Desktop/branching-test-project",
             "file:///home/moringaaccess/Desktop/index.html",
-            "file:///home/moringaaccess/Desktop/my-first-website",
+            "file:///home/moringaaccess/Desktop/Pet-website",
+            "file:///home/moringaaccess/Desktop/branching-test-project/branching-test-project",
+            "file:///home/moringaaccess/Desktop/cookie-recipe",
             "file:///home/moringaaccess/Desktop/Nazarine",
+            "file:///home/moringaaccess/Desktop/news-article.html",
+            "file:///home/moringaaccess/Desktop/my-first-website",
             "file:///home/moringaaccess/mpft38"
         ],
         "files2": [
@@ -54,8 +57,7 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -64,35 +66,13 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/home/moringaaccess/Desktop/pet-website",
-                                        "external": "file:///home/moringaaccess/Desktop/pet-website",
-                                        "path": "/home/moringaaccess/Desktop/pet-website",
+                                        "fsPath": "/home/moringaaccess/Desktop/landing-page",
+                                        "external": "file:///home/moringaaccess/Desktop/landing-page",
+                                        "path": "/home/moringaaccess/Desktop/landing-page",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/pet-website"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/moringaaccess/Desktop/branching-test-project/branching-test-project",
-                                        "path": "/home/moringaaccess/Desktop/branching-test-project/branching-test-project",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Desktop/branching-test-project/branching-test-project"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/moringaaccess/Desktop/Pet-website",
-                                        "path": "/home/moringaaccess/Desktop/Pet-website",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Desktop/Pet-website"
+                                    "label": "~/Desktop/landing-page"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -104,6 +84,17 @@
                                     },
                                     "enabled": true,
                                     "label": "/home/moringaaccess"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/moringaaccess/Desktop/pet-website",
+                                        "path": "/home/moringaaccess/Desktop/pet-website",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/pet-website"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -153,23 +144,34 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/moringaaccess/Desktop/my-first-website",
-                                        "path": "/home/moringaaccess/Desktop/my-first-website",
+                                        "external": "file:///home/moringaaccess/Desktop/Pet-website",
+                                        "path": "/home/moringaaccess/Desktop/Pet-website",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/my-first-website"
+                                    "label": "~/Desktop/Pet-website"
                                 },
                                 {
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/moringaaccess/Desktop/Nazarine",
-                                        "path": "/home/moringaaccess/Desktop/Nazarine",
+                                        "external": "file:///home/moringaaccess/Desktop/branching-test-project/branching-test-project",
+                                        "path": "/home/moringaaccess/Desktop/branching-test-project/branching-test-project",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/Nazarine"
+                                    "label": "~/Desktop/branching-test-project/branching-test-project"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/moringaaccess/Desktop/cookie-recipe",
+                                        "path": "/home/moringaaccess/Desktop/cookie-recipe",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/cookie-recipe"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -726,8 +728,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1601,126 +1602,17 @@
     "themeBackground": "#1e1e1e",
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/moringaaccess/Desktop/pet-website",
-            "backupPath": "/home/moringaaccess/.config/Code/Backups/2383bda3f4789e6138adf829f2dba611",
+            "folder": "file:///home/moringaaccess/Desktop/landing-page",
+            "backupPath": "/home/moringaaccess/.config/Code/Backups/a639b791bf538f03e9a0c12f59c4662a",
             "uiState": {
                 "mode": 0,
-                "x": 156,
-                "y": 161,
-                "width": 1207,
-                "height": 270
+                "x": 67,
+                "y": 57,
+                "width": 1299,
+                "height": 711
             }
         },
-        "openedWindows": [
-            {
-                "folder": "file:///home/moringaaccess",
-                "backupPath": "/home/moringaaccess/.config/Code/Backups/d20b992fd884c37acbd16784b5cdd2f8",
-                "uiState": {
-                    "mode": 1,
-                    "x": 762,
-                    "y": 57,
-                    "width": 600,
-                    "height": 711
-                }
-            },
-            {
-                "folder": "file:///home/moringaaccess/Desktop/pet-website",
-                "backupPath": "/home/moringaaccess/.config/Code/Backups/2383bda3f4789e6138adf829f2dba611",
-                "uiState": {
-                    "mode": 0,
-                    "x": 156,
-                    "y": 161,
-                    "width": 1207,
-                    "height": 270
-                }
-            },
-            {
-                "folder": "file:///home/moringaaccess/Desktop/E-learning",
-                "backupPath": "/home/moringaaccess/.config/Code/Backups/0143a52146c0ebb4fee076280f7398b6",
-                "uiState": {
-                    "mode": 1,
-                    "x": 201,
-                    "y": 57,
-                    "width": 1024,
-                    "height": 711
-                }
-            },
-            {
-                "folder": "file:///home/moringaaccess/barefootproject",
-                "backupPath": "/home/moringaaccess/.config/Code/Backups/6cd0f21d2ebb8579dfebce18a28b8fae",
-                "uiState": {
-                    "mode": 1,
-                    "x": 231,
-                    "y": 57,
-                    "width": 1024,
-                    "height": 711
-                }
-            },
-            {
-                "folder": "file:///home/moringaaccess/Desktop/branching-test-project",
-                "backupPath": "/home/moringaaccess/.config/Code/Backups/e54f7d21c72ec2e309bba3b101df1ccc",
-                "uiState": {
-                    "mode": 0,
-                    "x": 67,
-                    "y": 55,
-                    "width": 1299,
-                    "height": 713
-                }
-            },
-            {
-                "folder": "file:///home/moringaaccess/Desktop/index.html",
-                "backupPath": "/home/moringaaccess/.config/Code/Backups/a31a3eb46d26167bae3d54fd16b312ee",
-                "uiState": {
-                    "mode": 1,
-                    "x": 261,
-                    "y": 87,
-                    "width": 1064,
-                    "height": 270
-                }
-            },
-            {
-                "backupPath": "/home/moringaaccess/.config/Code/Backups/1606893827900",
-                "uiState": {
-                    "mode": 1,
-                    "x": 171,
-                    "y": 57,
-                    "width": 1024,
-                    "height": 711
-                }
-            },
-            {
-                "backupPath": "/home/moringaaccess/.config/Code/Backups/1606980480153",
-                "uiState": {
-                    "mode": 1,
-                    "x": 291,
-                    "y": 57,
-                    "width": 1024,
-                    "height": 711
-                }
-            },
-            {
-                "folder": "file:///home/moringaaccess/Desktop/Pet-website",
-                "backupPath": "/home/moringaaccess/.config/Code/Backups/1cdfe7645121e2d0c867fd49dee475c5",
-                "uiState": {
-                    "mode": 1,
-                    "x": 321,
-                    "y": 57,
-                    "width": 1024,
-                    "height": 711
-                }
-            },
-            {
-                "folder": "file:///home/moringaaccess/Desktop/branching-test-project/branching-test-project",
-                "backupPath": "/home/moringaaccess/.config/Code/Backups/9a8e92dccf70807aef4aa9ae8d39b430",
-                "uiState": {
-                    "mode": 1,
-                    "x": 342,
-                    "y": 57,
-                    "width": 1024,
-                    "height": 711
-                }
-            }
-        ]
+        "openedWindows": []
     },
     "pickerWorkingDir": "/home/moringaaccess/Desktop"
 }

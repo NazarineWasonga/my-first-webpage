@@ -1,0 +1,5 @@
+2020/12/04-16:11:21.765 404a Reusing MANIFEST /home/moringaaccess/.config/google-chrome/Default/IndexedDB/https_checkmarx.atlassian.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/04-16:13:14.515 3eed Level-0 table #5: started
+2020/12/04-16:13:14.533 3eed Level-0 table #5: 1559 bytes OK
+2020/12/04-16:13:14.565 3eed Delete type=0 #3
+2020/12/04-16:13:14.569 3eed Manual compaction at level-0 from (begin) .. (end); will stop at (end)

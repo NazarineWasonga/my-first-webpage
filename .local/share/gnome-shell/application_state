@@ -1,20 +1,21 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="gnome-control-center.desktop" open-window-count="1" score="113.875" last-seen="1606975111"/>
-    <application id="gnome-wifi-panel.desktop" open-window-count="0" score="0" last-seen="0"/>
-    <application id="yelp.desktop" open-window-count="1" score="2" last-seen="1606974575"/>
-    <application id="firefox.desktop" open-window-count="0" score="1420.21875" last-seen="1606905706"/>
-    <application id="slack.desktop" open-window-count="1" score="2007.9375" last-seen="1606989226"/>
-    <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="97.34375" last-seen="1606925379"/>
-    <application id="eog.desktop" open-window-count="0" score="94.21875" last-seen="1606841004"/>
-    <application id="code.desktop" open-window-count="10" score="4919.125" last-seen="1606989228"/>
-    <application id="google-chrome.desktop" open-window-count="1" score="13226.859375" last-seen="1606990575"/>
+    <application id="gnome-control-center.desktop" open-window-count="0" score="124.875" last-seen="1607091309"/>
+    <application id="yelp.desktop" open-window-count="0" score="2" last-seen="1606974575"/>
+    <application id="firefox.desktop" open-window-count="0" score="1867.21875" last-seen="1607009068"/>
+    <application id="slack.desktop" open-window-count="1" score="2524.9375" last-seen="1607105950"/>
+    <application id="shotwell.desktop" open-window-count="0" score="37" last-seen="1607033515"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="213.34375" last-seen="1607099770"/>
+    <application id="eog.desktop" open-window-count="0" score="108.21875" last-seen="1607083049"/>
+    <application id="code.desktop" open-window-count="1" score="8375.125" last-seen="1607110859"/>
+    <application id="google-chrome.desktop" open-window-count="3" score="19819.859375" last-seen="1607110710"/>
     <application id="org.gnome.gedit.desktop" open-window-count="0" score="0" last-seen="1606925154"/>
     <application id="gnome-terminal.desktop" open-window-count="0" score="0" last-seen="0"/>
-    <application id="org.gnome.Terminal.desktop" open-window-count="2" score="1167.125" last-seen="1606990568"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="1462.125" last-seen="1607110859"/>
     <application id="org.gnome.Shell.PortalHelper.desktop" open-window-count="0" score="4" last-seen="1606817430"/>
     <application id="libreoffice-writer.desktop" open-window-count="0" score="3" last-seen="1606855256"/>
-    <application id="thunderbird.desktop" open-window-count="0" score="0.5" last-seen="1606905712"/>
+    <application id="thunderbird.desktop" open-window-count="0" score="0.5" last-seen="1607028871"/>
+    <application id="org.gnome.Software.desktop" open-window-count="0" score="1" last-seen="1607087709"/>
   </context>
 </application-state>

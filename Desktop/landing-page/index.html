@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Personal Portfolio Webpage</title>
+        <link rel="stylesheet" type="text/css" href="css/styles.css">
+    </head>
+    <body>
+        <p id="home">.</p>
+        
+        <!-- Navigation bar -->
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a
+                  href="projects.html">Portfolio</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+
+        <!-- Welcome screen -->
+        <header id="welcome-section">
+            <h1>Welcome to Nazarine's portfolio</h1>
+        </header>
+
+        <!-- About me section -->
+        <section class="aboutBox" id="about">
+            <h1 class="title">About me</h1>
+            <img src="Images/Nazarine.jpg" alt="Picture of Nazarine Wasonga" id="myPicture">
+            <p>Hi, my name is <strong>Nazarine Wasonga</strong>, and I was born the 7th of December, 1998. I'm from Nairobi. I have graduated from high school the previous year. The course I took was Information Technology. Since October 2020 I have enthusiastically been studying programming, not only in school, but also via Internet. I think I have tried every possible way of learning, as in, watching many hours of video tutorials, learning through websites like freeCodeCamp, Codecademy, and many others, and also learning through the mobile app Sololearn. I also finished two courses, eSova (JavaScript) and Clever (HTML, CSS, Bootstrap, JavaScript), coming in at number one in Šabac. The last couple of months I've mostly been reading e-books about programming. As a result, I now have enough knowledge to make programs using HTML, CSS, Bootstrap, JavaScript, jQuery, C#, T-SQL, ASP.NET MVC, Git. I'm currently looking to get a job as a junior programmer using the skills I already possess. <em>I'm a workholic and I see myself as a future programmer. I love creating stuff with code, it's like having superpowers in real life, and yes, in my younger years I read many comics.</em> </p>
+        </section>
+
+        <!-- Portfolio section -->
+        <section class="portfoliBox" id="projects">
+            <h1 class="title">Portfolio</h1>
+            <div class="container">
+              <p>Some of the projects that I have done.</p>
+                <!-- Project "E-learning-system" -->
+                <div class="project-tile">
+                    <a href="https://github.com/NazarineWasonga/E-learning-system" target="_blank"> <img src="https://image.shutterstock.com/image-photo/elearning-education-internet-technology-webinar-600w-1139995139.jpg" height="400px"width="400px"></a>
+                    <p>An E-learning-website</p>
+                </div>
+                <!-- Project "pet-website" -->
+                <div class="project-tile">
+                    <a href="https://github.com/NazarineWasonga/pet-website" target="_blank"><img src="Images/dog.jpeg" alt="Project 'pet-website'" title="Open project on GitHub"></a>
+                    <p>Pet-website</p>
+                </div>
+                
+                     <!-- Contact section -->
+                <div class="container">
+                    <div style="text-align:center">
+                      <h2>Contact</h2>
+                      <p>Let's work together</p>
+                    </div>
+                    <div class="row">
+                      <div class="column">
+            
+                      </div>
+                      <div class="column">
+                        <form action="/action_page.php">
+                          <label for="fname">First Name</label>
+                          <input type="text" id="fname" name="firstname" placeholder="Your name..">
+                          <label for="lname">Last Name</label>
+                          <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+                          <label for="country">Country</label>
+                          <select id="country" name="country">
+                            <option value="nairobi">Nairobi</option>
+                            <option value="kisumu">Kisumu</option>
+                            <option value="Mombasa">Mombasa</option>
+                          </select>
+                          <label for="subject">Subject</label>
+                          <textarea id="subject" name="subject" placeholder="Write something.." style="height:170px"></textarea>
+                          <input type="submit" value="Submit">
+                        </form>
+                      </div>
+                    </div>
+                  </div>
+                  
+        <!-- Footer -->
+        <footer>Written and coded by Nazarine Wasonga</footer>
+    </body>
+</html>
