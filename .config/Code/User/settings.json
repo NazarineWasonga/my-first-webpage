@@ -6,5 +6,6 @@
     "editor.wordWrap": "on",
     "editor.accessibilitySupport": "off",
     "editor.autoClosingOvertype": "always",
-    "liveServer.settings.donotVerifyTags": true
+    "liveServer.settings.donotVerifyTags": true,
+    "git.enableSmartCommit": true
 }
